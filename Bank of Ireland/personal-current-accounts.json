@@ -1,0 +1,2089 @@
+{
+  "meta": {
+    "LastUpdated": "2017-03-10T15:51:20.512Z",
+    "TotalResults": 5,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "AccessChannels": [
+        "ATM",
+        "Branch",
+        "MobileBanking",
+        "Online",
+        "Phone",
+        "Post",
+        "Text"
+      ],
+      "Benefits": {
+        "Benefit": false
+      },
+      "CAPricing": [
+        {
+          "CAPricingItem": {
+            "ExchangeRateAdjustment": "0.00"
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "CardType": [
+        "ContactlessDebitVisa"
+      ],
+      "CardWithdrawalLimit": "500.00",
+      "ChequeBookAvailable": true,
+      "Contactless": true,
+      "CreditInterest": {
+        "CreditCharged": false
+      },
+      "CreditScoringPartOfAccountOpeningForGettingAnAccount": false,
+      "CreditScoringPartOfAccountOpeningIDVerificationIsAHardOrSoftCreditScore": [
+        "Soft"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "A personal customer.",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check.",
+        "IncomeTurnoverRelated": false,
+        "MinimumAge": 18,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": false
+      },
+      "Feature": [
+        {
+          "ExistingFeature": true,
+          "FeatureDetails": [
+            {
+              "FeatureDescription": "- Free day to day banking \r\n- Overdraft available \r\n- 365 Online, Phone and Mobile Banking"
+            }
+          ],
+          "ProductSubType": "Regular"
+        }
+      ],
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertBalance",
+                  "Other": "Balance Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertInterest",
+                  "Other": "Interest Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CardCardReplacement",
+                  "Other": "Card Replacement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransCredit",
+                  "Other": "Credit Transfer (BOI UK Account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransTransferExGroup",
+                  "Other": "Credit Transfer (Non-BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "DraftsBankers",
+                  "Other": "Banker's Draft"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "3.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqGiftCheque",
+                  "Other": "Gift Cheque"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSOut",
+                  "Other": "CHAPS - Outgoing"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSIn",
+                  "Other": "CHAPS - Incoming"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "30.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Title Deeds"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatementCopyRegular",
+                  "Other": "Extra Statement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "9.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatusEnquiry",
+                  "Other": "Status Enquiries"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "6.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayForeignPaymentInUKAcc",
+                  "Other": "Receiving Payments from Abroad (BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOut",
+                  "Other": "Payment Transfer Abroad"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOutIR",
+                  "Other": "Payment Transfer Abroad (BOI in the Republic of Ireland)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "InvPayBankDetailsWrong",
+                  "Other": "Incorrect Bank Details"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "15.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransUnpaidTrans",
+                  "Other": "Unpaid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "15.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Paid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "20.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Informal Overdraft Request Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignChqDraft",
+                  "Other": "International Draft Payable Abroad - Branch"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CounterForeignCashOut",
+                  "Other": "Non-Sterling Transaction Fee (Cash Withdrawal)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignPurchase",
+                  "Other": "Foreign Purchase Fee (Non-Cash Transaction Abroad)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "8.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqStopped",
+                  "Other": "Stopped Cheque Fee"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "InternationalPaymentsSupported": true,
+      "MonthlyMaximumCharge": "150.00",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOIFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "Overdraft": [
+        {
+          "AnnualRenewalFee": "0.00",
+          "InterestProductSubType": "Promotional",
+          "MaximumDailyOverdraftCharge": "150.00",
+          "MaximumMonthlyOverdraftCharge": "150.00",
+          "OverdraftPricing": {
+            "ApplicableTo": {
+              "InterestTierSME": "Other"
+            },
+            "InterestApplicationFrequency": "Monthly",
+            "InterestNotes": "Switching customers can apply for a 3 month, 0% overdraft.",
+            "InterestRate": "14.25",
+            "InterestRateCalculationFrequency": "Daily",
+            "InterestRateEARpa": "15.21",
+            "MinUnarrangedOverdraftAmount": "0.01",
+            "RatesAreNegotiable": "No",
+            "Tiers": [
+              {
+                "TierType": {
+                  "ArrangedOverdraftInterestTier": "Not Tiered"
+                }
+              }
+            ],
+            "TotalOverdraftChargeAmount": "Whole"
+          },
+          "OverdraftType": "OnDemand",
+          "ReviewFee": "0.00",
+          "SetUpFeesAmount": "0.00"
+        }
+      ],
+      "OverdraftOffered": true,
+      "ProductDescription": "The Clear Current Account has been developed to provide you with flexibility, service, reliability and the value you expect.  How you manage your day-to-day banking is clearly up to you.  You choose whatever option suits best and you aren't committed to one particular route.",
+      "ProductIdentifier": "57 - Current Account",
+      "ProductName": "Clear Account",
+      "ProductSegment": [
+        "General"
+      ],
+      "ProductType": "PCA",
+      "ProductURL": [
+        "https://boini.bankofireland.com/personal/current-account/clear-account/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-973n-9-04-16-mi005544-003824-ni-pca-tcs-v1-web-email.pdf"
+      ]
+    },
+    {
+      "AccessChannels": [
+        "ATM",
+        "Branch",
+        "MobileBanking",
+        "Online",
+        "Phone",
+        "Post",
+        "Text"
+      ],
+      "Benefits": {
+        "Benefit": false
+      },
+      "CAPricing": [
+        {
+          "CAPricingItem": {
+            "ExchangeRateAdjustment": "0.00"
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "CardType": [
+        "ContactlessDebitVisa"
+      ],
+      "CardWithdrawalLimit": "500.00",
+      "ChequeBookAvailable": true,
+      "Contactless": true,
+      "CreditInterest": {
+        "CreditCharged": false
+      },
+      "CreditScoringPartOfAccountOpeningForGettingAnAccount": false,
+      "CreditScoringPartOfAccountOpeningIDVerificationIsAHardOrSoftCreditScore": [
+        "Soft"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "Graduated from full time 3rd level education within the last 3 years.",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check.",
+        "IncomeTurnoverRelated": false,
+        "MinimumAge": 18,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": false
+      },
+      "Feature": [
+        {
+          "ExistingFeature": true,
+          "FeatureDetails": [
+            {
+              "FeatureDescription": "- Free day to day banking \r\n- 0% Overdraft \r\n- 365 Online, Phone and Mobile Banking"
+            }
+          ],
+          "ProductSubType": "Regular"
+        }
+      ],
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertBalance",
+                  "Other": "Balance Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertInterest",
+                  "Other": "Interest Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CardCardReplacement",
+                  "Other": "Card Replacement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransCredit",
+                  "Other": "Credit Transfer (BOI UK Account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransTransferExGroup",
+                  "Other": "Credit Transfer (Non-BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "DraftsBankers",
+                  "Other": "Banker's Draft"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "3.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqGiftCheque",
+                  "Other": "Gift Cheque"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSOut",
+                  "Other": "CHAPS - Outgoing"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSIn",
+                  "Other": "CHAPS - Incoming"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "30.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Title Deeds"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatementCopyRegular",
+                  "Other": "Extra Statement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "9.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatusEnquiry",
+                  "Other": "Status Enquiries"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "6.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayForeignPaymentInUKAcc",
+                  "Other": "Receiving Payments from Abroad (BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOut",
+                  "Other": "Payment Transfer Abroad"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOutIR",
+                  "Other": "Payment Transfer Abroad (BOI in the Republic of Ireland)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "InvPayBankDetailsWrong",
+                  "Other": "Incorrect Bank Details"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "15.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransUnpaidTrans",
+                  "Other": "Unpaid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "15.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Paid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "20.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Informal Overdraft Request Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignChqDraft",
+                  "Other": "International Draft Payable Abroad - Branch"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CounterForeignCashOut",
+                  "Other": "Non-Sterling Transaction Fee (Cash Withdrawal)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignPurchase",
+                  "Other": "Foreign Purchase Fee (Non-Cash Transaction Abroad)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "8.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqStopped",
+                  "Other": "Stopped Cheque Fee"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "InternationalPaymentsSupported": true,
+      "MonthlyMaximumCharge": "150.00",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOIFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "Overdraft": [
+        {
+          "AnnualRenewalFee": "0.00",
+          "InterestProductSubType": "Promotional",
+          "MaximumDailyOverdraftCharge": "150.00",
+          "MaximumMonthlyOverdraftCharge": "150.00",
+          "OverdraftPricing": {
+            "ApplicableTo": {
+              "InterestTierSME": "Other"
+            },
+            "InterestApplicationFrequency": "Monthly",
+            "InterestNotes": "Switching customers can apply for a 3 month, 0% overdraft.",
+            "InterestRate": "0.00",
+            "InterestRateCalculationFrequency": "Daily",
+            "InterestRateEARpa": "0.00",
+            "MinUnarrangedOverdraftAmount": "0.01",
+            "RatesAreNegotiable": "No",
+            "Tiers": [
+              {
+                "TierType": {
+                  "ArrangedOverdraftInterestTier": "Tier 1"
+                },
+                "TierValueMaximum": "3000.00",
+                "TierValueMinimum": "0.01"
+              }
+            ],
+            "TotalOverdraftChargeAmount": "Banded"
+          },
+          "OverdraftType": "OnDemand",
+          "ReviewFee": "0.00",
+          "SetUpFeesAmount": "0.00"
+        },
+        {
+          "AnnualRenewalFee": "0.00",
+          "InterestProductSubType": "Promotional",
+          "MaximumDailyOverdraftCharge": "150.00",
+          "MaximumMonthlyOverdraftCharge": "150.00",
+          "OverdraftPricing": {
+            "ApplicableTo": {
+              "InterestTierSME": "Other"
+            },
+            "InterestApplicationFrequency": "Monthly",
+            "InterestNotes": "Switching customers can apply for a 3 month, 0% overdraft.",
+            "InterestRate": "7.25",
+            "InterestRateCalculationFrequency": "Daily",
+            "InterestRateEARpa": "7.49",
+            "MinUnarrangedOverdraftAmount": "0.01",
+            "RatesAreNegotiable": "No",
+            "Tiers": [
+              {
+                "TierType": {
+                  "ArrangedOverdraftInterestTier": "Tier 2"
+                },
+                "TierValueMaximum": "n",
+                "TierValueMinimum": "3000.01"
+              }
+            ],
+            "TotalOverdraftChargeAmount": "Banded"
+          },
+          "OverdraftType": "OnDemand",
+          "ReviewFee": "0.00",
+          "SetUpFeesAmount": "0.00"
+        }
+      ],
+      "OverdraftOffered": true,
+      "ProductDescription": "Are you a Recent Graduate?  Get a graduate current account from us that offers the same good-value banking that you enjoyed as a student, as well as all the benefits of a normal current account that will take care of all your banking needs.",
+      "ProductIdentifier": "13 - Current Account",
+      "ProductName": "Graduate Account",
+      "ProductSegment": [
+        "Graduate"
+      ],
+      "ProductType": "PCA",
+      "ProductURL": [
+        "https://boini.bankofireland.com/personal/current-account/graduate-account/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-973n-9-04-16-mi005544-003824-ni-pca-tcs-v1-web-email.pdf"
+      ]
+    },
+    {
+      "AccessChannels": [
+        "ATM",
+        "Branch",
+        "MobileBanking",
+        "Online",
+        "Phone",
+        "Post",
+        "Text"
+      ],
+      "Benefits": {
+        "Benefit": false
+      },
+      "CAPricing": [
+        {
+          "CAPricingItem": {
+            "ExchangeRateAdjustment": "0.00"
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "CardType": [
+        "ContactlessDebitVisa"
+      ],
+      "CardWithdrawalLimit": "500.00",
+      "ChequeBookAvailable": true,
+      "Contactless": true,
+      "CreditInterest": {
+        "CreditCharged": true,
+        "CreditInterestGroup": [
+          {
+            "CreditInterestItem": {
+              "CalculationFrequency": "Month",
+              "InterestRateType": "Variable",
+              "InterestTiers": [
+                {
+                  "APRAERRate": "0.50",
+                  "Rate": "0.50",
+                  "RateComparisonType": "AER"
+                }
+              ],
+              "PaymentMethod": "Compound"
+            },
+            "InterestTierSubType": "Regular"
+          }
+        ]
+      },
+      "CreditScoringPartOfAccountOpeningForGettingAnAccount": false,
+      "CreditScoringPartOfAccountOpeningIDVerificationIsAHardOrSoftCreditScore": [
+        "Soft"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "A full time student (of any nationality).",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check.",
+        "IncomeTurnoverRelated": false,
+        "MinimumAge": 16,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": false
+      },
+      "Feature": [
+        {
+          "ExistingFeature": true,
+          "FeatureDetails": [
+            {
+              "FeatureDescription": "- Earn interest while you're in credit \r\n- 0% overdraft \r\n- 365 Online, Phone and Mobile Banking"
+            }
+          ],
+          "ProductSubType": "Regular"
+        }
+      ],
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertBalance",
+                  "Other": "Balance Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertInterest",
+                  "Other": "Interest Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CardCardReplacement",
+                  "Other": "Card Replacement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransCredit",
+                  "Other": "Credit Transfer (BOI UK Account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransTransferExGroup",
+                  "Other": "Credit Transfer (Non-BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "DraftsBankers",
+                  "Other": "Banker's Draft"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "3.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqGiftCheque",
+                  "Other": "Gift Cheque"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSOut",
+                  "Other": "CHAPS - Outgoing"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSIn",
+                  "Other": "CHAPS - Incoming"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "30.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Title Deeds"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatementCopyRegular",
+                  "Other": "Extra Statement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "9.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatusEnquiry",
+                  "Other": "Status Enquiries"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "6.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayForeignPaymentInUKAcc",
+                  "Other": "Receiving Payments from Abroad (BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOut",
+                  "Other": "Payment Transfer Abroad"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOutIR",
+                  "Other": "Payment Transfer Abroad (BOI in the Republic of Ireland)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "InvPayBankDetailsWrong",
+                  "Other": "Incorrect Bank Details"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransUnpaidTrans",
+                  "Other": "Unpaid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Paid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Informal Overdraft Request Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignChqDraft",
+                  "Other": "International Draft Payable Abroad - Branch"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CounterForeignCashOut",
+                  "Other": "Non-Sterling Transaction Fee (Cash Withdrawal)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignPurchase",
+                  "Other": "Foreign Purchase Fee (Non-Cash Transaction Abroad)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "8.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqStopped",
+                  "Other": "Stopped Cheque Fee"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "InternationalPaymentsSupported": true,
+      "MonthlyMaximumCharge": "150.00",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOIFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "Overdraft": [
+        {
+          "InterestProductSubType": "Promotional",
+          "MaximumDailyOverdraftCharge": "150.00",
+          "MaximumMonthlyOverdraftCharge": "150.00",
+          "OverdraftPricing": {
+            "ApplicableTo": {
+              "InterestTierSME": "Other"
+            },
+            "InterestApplicationFrequency": "Monthly",
+            "InterestNotes": "Switching customers can apply for a 3 month, 0% overdraft.",
+            "InterestRate": "0.00",
+            "InterestRateCalculationFrequency": "Daily",
+            "InterestRateEARpa": "0.00",
+            "MinUnarrangedOverdraftAmount": "0.01",
+            "RatesAreNegotiable": "No",
+            "Tiers": [
+              {
+                "TierType": {
+                  "ArrangedOverdraftInterestTier": "Not Tiered"
+                }
+              }
+            ],
+            "TotalOverdraftChargeAmount": "Whole"
+          }
+        }
+      ],
+      "OverdraftOffered": true,
+      "ProductDescription": "Our 3rd level student package is available to undergraduate and postgraduate students and is full of great products to help you get exactly what you want from life.  Whether it's instant access to cash at home or something bigger that you want, we could help you get it now. You can also access your cash when you're abroad.  Charges will apply if you use your card outside the UK.  Please see our Student charges explained brochure for more details.",
+      "ProductIdentifier": "60 - Student Advantage",
+      "ProductName": "3rd Level Student Account",
+      "ProductSegment": [
+        "Student"
+      ],
+      "ProductType": "PCA",
+      "ProductURL": [
+        "https://boini.bankofireland.com/personal/student/products/3rd-level-student/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-973n-9-04-16-mi005544-003824-ni-pca-tcs-v1-web-email.pdf"
+      ]
+    },
+    {
+      "AccessChannels": [
+        "ATM",
+        "Branch",
+        "MobileBanking",
+        "Online",
+        "Phone",
+        "Post",
+        "Text"
+      ],
+      "Benefits": {
+        "Benefit": false
+      },
+      "CAPricing": [
+        {
+          "CAPricingItem": {
+            "ExchangeRateAdjustment": "0.00"
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "CardType": [
+        "VisaDebit"
+      ],
+      "CardWithdrawalLimit": "500.00",
+      "ChequeBookAvailable": false,
+      "Contactless": false,
+      "CreditInterest": {
+        "CreditCharged": true,
+        "CreditInterestGroup": [
+          {
+            "CreditInterestItem": {
+              "CalculationFrequency": "Month",
+              "InterestRateType": "Variable",
+              "InterestTiers": [
+                {
+                  "APRAERRate": "0.10",
+                  "Rate": "0.10",
+                  "RateComparisonType": "AER"
+                }
+              ],
+              "PaymentMethod": "Compound"
+            },
+            "InterestTierSubType": "Regular"
+          }
+        ]
+      },
+      "CreditScoringPartOfAccountOpeningForGettingAnAccount": false,
+      "CreditScoringPartOfAccountOpeningIDVerificationIsAHardOrSoftCreditScore": [
+        "Soft"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "A person in second level education aged between 11 and 19 or a person in year 7 of primary level education planning to go to second level education.",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check.",
+        "IncomeTurnoverRelated": false,
+        "MaximumAge": 19,
+        "MaximumAgeToOpen": 19,
+        "MinimumAge": 11,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": false
+      },
+      "Feature": [
+        {
+          "ExistingFeature": true,
+          "FeatureDetails": [
+            {
+              "FeatureDescription": "- Earn interest while you're in credit \r\n- Cash card \r\n- Free day to day banking"
+            }
+          ],
+          "ProductSubType": "Regular"
+        }
+      ],
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertBalance",
+                  "Other": "Balance Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertInterest",
+                  "Other": "Interest Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CardCardReplacement",
+                  "Other": "Card Replacement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransCredit",
+                  "Other": "Credit Transfer (BOI UK Account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransTransferExGroup",
+                  "Other": "Credit Transfer (Non-BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "DraftsBankers",
+                  "Other": "Banker's Draft"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "3.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqGiftCheque",
+                  "Other": "Gift Cheque"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSOut",
+                  "Other": "CHAPS - Outgoing"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSIn",
+                  "Other": "CHAPS - Incoming"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "30.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Title Deeds"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatementCopyRegular",
+                  "Other": "Extra Statement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "9.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatusEnquiry",
+                  "Other": "Status Enquiries"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "6.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayForeignPaymentInUKAcc",
+                  "Other": "Receiving Payments from Abroad (BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOut",
+                  "Other": "Payment Transfer Abroad"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOutIR",
+                  "Other": "Payment Transfer Abroad (BOI in the Republic of Ireland)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "InvPayBankDetailsWrong",
+                  "Other": "Incorrect Bank Details"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransUnpaidTrans",
+                  "Other": "Unpaid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Paid Transaction Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "0.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Informal Overdraft Request Fee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignChqDraft",
+                  "Other": "International Draft Payable Abroad - Branch"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CounterForeignCashOut",
+                  "Other": "Non-Sterling Transaction Fee (Cash Withdrawal)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignPurchase",
+                  "Other": "Foreign Purchase Fee (Non-Cash Transaction Abroad)"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "InternationalPaymentsSupported": true,
+      "MonthlyMaximumCharge": "0.00",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOIFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "OverdraftOffered": false,
+      "ProductDescription": "It's simple. Because in ten years time, we want you to still be one of our customers. The Bank of Ireland UK student account (11-19 years) is full of great features to help you get exactly what you want from your bank.",
+      "ProductIdentifier": "39 - Advantage Money Mover",
+      "ProductName": "Student Account 11-19 years",
+      "ProductSegment": [
+        "Student"
+      ],
+      "ProductType": "PCA",
+      "ProductURL": [
+        "https://boini.bankofireland.com/personal/student/products/student-account-11-19-years"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-973n-9-04-16-mi005544-003824-ni-pca-tcs-v1-web-email.pdf"
+      ]
+    },
+    {
+      "AccessChannels": [
+        "ATM",
+        "Branch",
+        "MobileBanking",
+        "Online",
+        "Phone",
+        "Post",
+        "Text"
+      ],
+      "Benefits": {
+        "Benefit": false
+      },
+      "CAPricing": [
+        {
+          "CAPricingItem": {
+            "ExchangeRateAdjustment": "0.00"
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "CardType": [
+        "Cashcard"
+      ],
+      "CardWithdrawalLimit": "500.00",
+      "ChequeBookAvailable": false,
+      "Contactless": false,
+      "CreditInterest": {
+        "CreditCharged": false
+      },
+      "CreditScoringPartOfAccountOpeningForGettingAnAccount": false,
+      "CreditScoringPartOfAccountOpeningIDVerificationIsAHardOrSoftCreditScore": [
+        "Soft"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "A personal customer.",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check.",
+        "IncomeTurnoverRelated": false,
+        "MinimumAge": 16,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": false
+      },
+      "Feature": [
+        {
+          "ExistingFeature": true,
+          "FeatureDetails": [
+            {
+              "FeatureDescription": "- Pay bills \r\n- Set standing orders \r\n- Cash card"
+            }
+          ],
+          "ProductSubType": "Regular"
+        }
+      ],
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertBalance",
+                  "Other": "Balance Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportCertInterest",
+                  "Other": "Interest Certificate"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CardCardReplacement",
+                  "Other": "Card Replacement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransCredit",
+                  "Other": "Credit Transfer (BOI UK Account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "7.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "TransTransferExGroup",
+                  "Other": "Credit Transfer (Non-BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "DraftsBankers",
+                  "Other": "Banker's Draft"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "3.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ChqGiftCheque",
+                  "Other": "Gift Cheque"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSOut",
+                  "Other": "CHAPS - Outgoing"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "5.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CHAPSIn",
+                  "Other": "CHAPS - Incoming"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "30.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ServiceCOther",
+                  "Other": "Title Deeds"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatementCopyRegular",
+                  "Other": "Extra Statement"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "9.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ReportStatusEnquiry",
+                  "Other": "Status Enquiries"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "6.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayForeignPaymentInUKAcc",
+                  "Other": "Receiving Payments from Abroad (BOI UK account)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "25.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOut",
+                  "Other": "Payment Transfer Abroad"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "IntlPayFXPaymentOutIR",
+                  "Other": "Payment Transfer Abroad (BOI in the Republic of Ireland)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "InvPayBankDetailsWrong",
+                  "Other": "Incorrect Bank Details"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "10.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignChqDraft",
+                  "Other": "International Draft Payable Abroad - Branch"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "1.50",
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "CounterForeignCashOut",
+                  "Other": "Non-Sterling Transaction Fee (Cash Withdrawal)"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeRate": "2.75",
+                    "FeesAndChargesNotes": "International payments charges do not apply if:\r\n- The payment is in Euros\r\n- The payment must be going to an EU/EEA country\r\n- The International Bank Account Number (IBAN) of the beneficiary is provided\r\n- The Bank Identifier Code (BIC) of the beneficiary bank is provided\r\n- The beneficiary's name and address is provided\r\n- There is no specified value date\r\n- The charges option SHARED must be selected\r\n\r\nBank of Ireland UK standard charges for international payments will apply if:\r\n- The payment is a currency other than Euros, or in Euros but going outside of the EU/EEA\r\n- The payment request is for the same day or next day\r\n- The beneficiary IBAN or BIC is not supplied or these are incorrect",
+                    "Negotiable": false
+                  },
+                  "FeeType": "ForeignPurchase",
+                  "Other": "Foreign Purchase Fee (Non-Cash Transaction Abroad)"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "InternationalPaymentsSupported": true,
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOIFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "OverdraftOffered": false,
+      "ProductDescription": "Basic Cash Account is a straightforward easy to use account and is available to personal customers who are over 16 years of age.  You can arrange for your wages or benefits to be paid directly into your account.  You can also arrange to pay your regular bills by Direct Debit.  Operated by card only, Basic Cash Account is ideal if you are taking the 1st step into Banking or are only looking for a simple account.",
+      "ProductIdentifier": "29 - Basic Cash Account",
+      "ProductName": "Basic Account",
+      "ProductSegment": [
+        "Basic"
+      ],
+      "ProductType": "PCA",
+      "ProductURL": [
+        "https://boini.bankofireland.com/personal/current-account/basic-cash-account/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-975n-5-05-14-css080664-basic-cash-account-brochure-ni-v2-web.pdf",
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-uk37-973n-9-04-16-mi005544-003824-ni-pca-tcs-v1-web-email.pdf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "LastUpdated": "2017-03-13T16:09:30.992Z",
+    "TotalResults": 1,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "Benefits": {
+        "Benefit": false
+      },
+      "Description": "Commercial Credit Card is suitable for customers who:\r\n- Need to keep business and personal spending separate \r\n- Want to buy now and pay later \r\n- Buy goods and services at home and abroad \r\n- Wish to buy goods and services securely on-line \r\n- Wish to issue up unlimited  cards to employees for business spend \r\n- Need occasional short term borrowing or to cover unexpected expenses",
+      "Details": {
+        "CCSubType": "Regular",
+        "CommercialCreditCardItem": {
+          "APRRate": "25.70",
+          "AccessToOnlineDataReportingTool": true,
+          "AnnualFeeAmount": "25.00",
+          "CardScheme": "CreditMastercard",
+          "CashAdvanceRate": "22.06",
+          "CashWithdrawalsAllowed": true,
+          "ConvenienceCheque": false,
+          "DaysInterestFreeCreditIfPaymentFull": 37,
+          "ExchangeRateAdjustment": "0.00",
+          "IssuingEmergencyCardsFees": "0.00",
+          "MinimumCreditLimit": "0.00",
+          "PaymentDaysAfterStatement": 6,
+          "PurchaseRate": "22.06",
+          "RepaymentFrequency": "Monthly",
+          "StatementAtAccountLevel": true,
+          "StatementAtPersonalLevel": true
+        }
+      },
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "BUSINESS CURRENT ACCOUNT",
+        "EligibilityNotes": "Eligibility for previous bankruptcy, subject to credit check",
+        "IncomeTurnoverRelated": true,
+        "OtherFinancialHoldingRequired": true,
+        "PreviousBankruptcy": true,
+        "ResidencyRestricted": true,
+        "ThirdSectorOrganisations": true
+      },
+      "KeyFeatures": "- MasterCard Commercial card - can be used anywhere MasterCard is accepted\r\n- Pay the full amount each month  by direct debit each month\r\n- Up to 37 days interest free days on full payment by direct debit\r\n- DD is taken 7 days after statement issue date\r\n- Contactless payment for purchases under £30\r\n- Extra payments can be made any time to  increase available credit. Account cannot be put into credit\r\n- Company name printed on cards\r\n- Identity theft assistance - Liability waiver insurance\r\n- Comprehensive travel insurance - covers up to 3 travelling companions",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "PaymentHoliday": false,
+      "ProductIdentifier": "Credit Card",
+      "ProductName": "Business Credit Cards",
+      "ProductType": "CommercialCreditCards",
+      "ProductURL": [
+        "http://boini.bankofireland.com/business/credit-cards/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/fs/doc/wysiwyg/approved-omi011433-commercial-card-tscs-v1-v3.pdf"
+      ]
+    }
+  ]
+}

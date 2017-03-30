@@ -1,0 +1,4757 @@
+{
+	"meta": {
+        "LastUpdated": "2017-03-17T10:19:23Z",
+		"TotalResults": 3,
+		"License": "https://openbanking.org.uk/open-licence",
+		"TermsOfUse": "https://openbanking.org.uk/terms",
+		"Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions"
+	},
+	"data": [
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "AIBKGB2L",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "2111729"
+    }
+  },
+  "ProductType": "BCA",
+  "ProductName": "Business Current Account",
+  "ProductSegment": [
+    "Business"
+  ],
+  "CreditInterest": {
+    "CreditCharged": false
+  },
+  "InternationalPaymentsSupported": true,
+  "ProductIdentifier": "GB40001",
+  "CardWithdrawalLimit": "500.00",
+  "ProductDescription": "Non-credit interest bearing business current account.",
+  "TsandCs": [
+    "https://aibgb.co.uk/content/dam/gb/business/Documents/terms-and-conditions/business-banking-terms-and-conditions.pdf"
+  ],
+  "AccessChannels": [
+        "Branch", "Post", "Online", "Phone"
+  ],
+  "CAPricing": [{
+		"ProductSubType": "Regular",
+		"CAPricingItem": {
+			"LengthPromotionalInDays": 0
+		}
+	}],
+		
+  "CardType": [
+    "VisaDebit"
+  ],
+  "Contactless": true,
+  "ChequeBookAvailable": true,
+  "CreditScoringPartOfAccountOpeningForGettingAnAccount": true,
+  "CreditScoringPartOfAccountOpeningForIDVerification": true,
+  "ProductURL": [
+   "https://aibgb.co.uk/our-products/business-current-accounts/business-current-accounts"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "OverdraftOffered": true,
+  "Eligibility": {
+    "AgeRestricted": false,
+    "OtherFinancialHoldingRequired": false,
+    "Description": "Business customers only.",
+    "IncomeTurnoverRelated": false,
+    "ResidencyRestricted": true,
+    "ThirdSectorOrganisations": false,
+    "PreviousBankruptcy": false
+  },
+  "FeesAndCharges": [
+	{
+	 "ProductSubType": "Regular",
+      "Fees": {
+        "FeeDetails": [
+                      {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% currency conversion on Stg amount + £0.55 automated transaction fee"
+              }
+            }
+          },
+{
+                "FeeSubType": "Regular",
+                "FeeDetail": {
+                  "FeeType": "CHAPSOutOnline",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeAmount": "12.00",
+                    "Negotiable": false
+                  }
+                }
+              },
+
+                            {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopyRegular",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationPTT",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationCount",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayForeignBCNR",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayForeignCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 15k £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlPayableAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "15.00",
+                "FeeMax": "25.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 10k £15, else £25"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsBankers",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMNonSterlingWithdrawal",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadGoldVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMForeignCashDebCard",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMConGroupATM",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadConVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "0.00",
+                "FeeMax": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "No charge if withing AIB Group"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialChqPresentation",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£5 each, within AIB GB £0.55 automated transaction charge only."
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlStoppedCancelled",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftFX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegTenThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegHundred",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiftyThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiveThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegMax",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAEuro",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutUKForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutNonEEASterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineReplacementCardReader",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXInwardsCust",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXOutwards",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less £15k - £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignChqDraft",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertBalance",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashGroupATMDebitCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashNonGroupATMDebitcard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+      {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSItem",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSOnLineOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkInternet",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELFile",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+        "FeeSubType": "Regular",
+        "FeeDetail": {
+          "FeeType": "CardCardReplacement",
+          "FeeSubDetails": {
+            "FeeFrequency": "PerOccurrence",
+            "FeeAmount": "5.00",
+            "Negotiable": false
+          }
+        }
+      },
+                {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayPaymentTracing",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayStandingOrdUnpaid",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingEnvelope",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per annum"
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingInspection",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per inspection"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingLargeItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 + VAT per annum"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingParcel",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 + VAT per annum"
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafeBankOpen",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "10.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£10 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafe",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "15.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£15 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafePaidIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.75",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqBookTheftLossAllStopped",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "8.50",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqDraft",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+			          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqOutIssued",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqStopped",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          				{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqTrans",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+							{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCounterLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCashDropLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+				          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqChequePhotocopy",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10.00 per request up to a max of 5 cheques"
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCheque",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportAuditLetter",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 plus VAT per report"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterestDuplicate",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportReferralItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterest",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                                        {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatusEnquiry",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£8 plus VAT"
+              }
+            }
+          },
+         {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopy1",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportTaxCert",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+           {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPABranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPACredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBillPaymentBranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTelephoneBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKDifferent",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKSame",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBranchCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebCardDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUKDirDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBuyForeignWithGBP",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1% Commission, Min £2"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrd",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrdManPay",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTransferExGroup",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnauthorisedPaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnpaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCreditPhoneInet",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoDebitCardCommercial",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoFPSAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInternetBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineUrgentEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineForeignPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£12 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineSubscriptionMonthly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinGBPtoUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinUSDtoUS",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£20 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBulkDirectDebSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "2.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£2 per file plus £0.15 per item within"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignPurchase",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ServiceCAccountFeeQuarterly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCoinHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100 coin"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInNotUs",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCounterLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashDropLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesLodged",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInOwn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterForeignNoteHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeRate": "1.00",
+                "FeeMin": "2.00",
+                "Negotiable": false
+              }
+            }
+          }
+	]
+	}
+	}
+       ],
+  "Benefits": {
+    "Benefit": false
+    }
+},
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "AIBKGB2L",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "2111729"
+    }
+  },
+  "ProductType": "BCA",
+  "ProductName": "Business Extra Account",
+  "ProductSegment": [
+    "Business"
+  ],
+  "CreditInterest": {
+    "CreditCharged": true
+  },
+  "InternationalPaymentsSupported": true,
+  "ProductIdentifier": "GB40036",
+  "CardWithdrawalLimit": "500.00",
+  "ProductDescription": "Interest bearing business current account for Business Customer Only.",
+  "TsandCs": [
+    "https://aibgb.co.uk/content/dam/gb/business/Documents/terms-and-conditions/business-banking-terms-and-conditions.pdf"
+  ],
+  "AccessChannels": [
+        "Branch", "Post", "Online", "Phone"
+  ],
+  "CAPricing": [{
+		"ProductSubType": "Regular",
+		"CAPricingItem": {
+			"LengthPromotionalInDays": 0
+		}
+	}],
+		
+  "CardType": [
+    "VisaDebit"
+  ],
+  "Contactless": true,
+  "ChequeBookAvailable": true,
+  "CreditScoringPartOfAccountOpeningForGettingAnAccount": true,
+  "CreditScoringPartOfAccountOpeningForIDVerification": true,
+  "ProductURL": [
+   "https://aibgb.co.uk/our-products/business-current-accounts/business-current-accounts"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "OverdraftOffered": true,
+  "Eligibility": {
+    "AgeRestricted": false,
+    "OtherFinancialHoldingRequired": false,
+    "Description": "Business customers only.",
+    "IncomeTurnoverRelated": false,
+    "ResidencyRestricted": true,
+    "ThirdSectorOrganisations": false,
+    "PreviousBankruptcy": false
+  },
+  "FeesAndCharges": [
+	{
+	 "ProductSubType": "Regular",
+      "Fees": {
+        "FeeDetails": [
+                      {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% currency conversion on Stg amount + £0.55 automated transaction fee"
+              }
+            }
+          },
+{
+                "FeeSubType": "Regular",
+                "FeeDetail": {
+                  "FeeType": "CHAPSOutOnline",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeAmount": "12.00",
+                    "Negotiable": false
+                  }
+                }
+              },
+
+                            {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopyRegular",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationPTT",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationCount",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayForeignBCNR",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayForeignCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 15k £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlPayableAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "15.00",
+                "FeeMax": "25.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 10k £15, else £25"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsBankers",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMNonSterlingWithdrawal",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadGoldVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMForeignCashDebCard",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMConGroupATM",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadConVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "0.00",
+                "FeeMax": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "No charge if withing AIB Group"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialChqPresentation",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£5 each, within AIB GB £0.55 automated transaction charge only."
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlStoppedCancelled",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftFX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "5.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegTenThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegHundred",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiftyThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiveThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegMax",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAEuro",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutUKForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutNonEEASterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineReplacementCardReader",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXInwardsCust",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXOutwards",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less £15k - £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignChqDraft",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertBalance",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashGroupATMDebitCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashNonGroupATMDebitcard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+      {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSItem",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSOnLineOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkInternet",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELFile",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+        "FeeSubType": "Regular",
+        "FeeDetail": {
+          "FeeType": "CardCardReplacement",
+          "FeeSubDetails": {
+            "FeeFrequency": "PerOccurrence",
+            "FeeAmount": "5.00",
+            "Negotiable": false
+          }
+        }
+      },
+                {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayPaymentTracing",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayStandingOrdUnpaid",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingEnvelope",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per annum"
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingInspection",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per inspection"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingLargeItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 + VAT per annum"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingParcel",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 + VAT per annum"
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafeBankOpen",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "10.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£10 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafe",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "15.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£15 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafePaidIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.75",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqBookTheftLossAllStopped",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "8.50",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqDraft",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+			          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqOutIssued",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqStopped",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          				{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqTrans",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+							{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCounterLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCashDropLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+				          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqChequePhotocopy",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10.00 per request up to a max of 5 cheques"
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCheque",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportAuditLetter",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 plus VAT per report"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterestDuplicate",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportReferralItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterest",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                                        {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatusEnquiry",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£8 plus VAT"
+              }
+            }
+          },
+         {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopy1",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportTaxCert",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+           {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPABranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPACredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBillPaymentBranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTelephoneBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKDifferent",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKSame",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBranchCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebCardDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUKDirDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBuyForeignWithGBP",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1% Commission, Min £2"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrd",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrdManPay",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTransferExGroup",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnauthorisedPaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnpaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCreditPhoneInet",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoDebitCardCommercial",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoFPSAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInternetBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineUrgentEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineForeignPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£12 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineSubscriptionMonthly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinGBPtoUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinUSDtoUS",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£20 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBulkDirectDebSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "2.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£2 per file plus £0.15 per item within"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignPurchase",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ServiceCAccountFeeQuarterly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCoinHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100 coin"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInNotUs",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCounterLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashDropLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesLodged",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInOwn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterForeignNoteHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeRate": "1.00",
+                "FeeMin": "2.00",
+                "Negotiable": false
+              }
+            }
+          }
+	]
+	}
+	}
+       ],
+  "Benefits": {
+    "Benefit": false
+    }
+},
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "AIBKGB2L",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "2111729"
+    }
+  },
+  "ProductType": "BCA",
+  "ProductName": "Business Current Account Plus",
+  "ProductSegment": [
+    "Business"
+  ],
+  "CreditInterest": {
+    "CreditCharged": true
+  },
+  "InternationalPaymentsSupported": true,
+  "ProductIdentifier": "GB40037",
+  "CardWithdrawalLimit": "500.00",
+  "ProductDescription": "Interest bearing business current account, tiered rates depending on balance.",
+  "TsandCs": [
+    "https://aibgb.co.uk/content/dam/gb/business/Documents/terms-and-conditions/business-banking-terms-and-conditions.pdf"
+  ],
+  "AccessChannels": [
+        "Branch", "Post", "Online", "Phone"
+  ],
+  "CAPricing": [{
+		"ProductSubType": "Regular",
+		"CAPricingItem": {
+			"LengthPromotionalInDays": 0
+		}
+	}],
+		
+  "CardType": [
+    "VisaDebit"
+  ],
+  "Contactless": true,
+  "ChequeBookAvailable": true,
+  "CreditScoringPartOfAccountOpeningForGettingAnAccount": true,
+  "CreditScoringPartOfAccountOpeningForIDVerification": true,
+  "ProductURL": [
+   "https://aibgb.co.uk/our-products/business-current-accounts/business-current-accounts"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "OverdraftOffered": true,
+  "Eligibility": {
+    "AgeRestricted": false,
+    "OtherFinancialHoldingRequired": false,
+    "Description": "Business customers only.",
+    "IncomeTurnoverRelated": false,
+    "ResidencyRestricted": true,
+    "ThirdSectorOrganisations": false,
+    "PreviousBankruptcy": false
+  },
+  "FeesAndCharges": [
+	{
+	 "ProductSubType": "Regular",
+      "Fees": {
+        "FeeDetails": [
+                      {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% currency conversion on Stg amount + £0.55 automated transaction fee"
+              }
+            }
+          },
+{
+                "FeeSubType": "Regular",
+                "FeeDetail": {
+                  "FeeType": "CHAPSOutOnline",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "PerOccurrence",
+                    "FeeAmount": "12.00",
+                    "Negotiable": false
+                  }
+                }
+              },
+
+                            {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopyRegular",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationPTT",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialPresentationCount",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayForeignBCNR",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayForeignCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 15k £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlPayableAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "15.00",
+                "FeeMax": "25.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less than 10k £15, else £25"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsBankers",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMNonSterlingWithdrawal",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadGoldVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMForeignCashDebCard",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1.50% of amount withdrawn"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroad",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMConGroupATM",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ATMAbroadConVisaDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "2.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "2.75% of amount withdrawn + £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "0.00",
+                "FeeMax": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "No charge if withing AIB Group"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqSpecialChqPresentation",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£5 each, within AIB GB £0.55 automated transaction charge only."
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CHAPSOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "DraftsIntlStoppedCancelled",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftFX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegTenThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegHundred",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiftyThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegFiveThou",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqForeignNegMax",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAEuro",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPAOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutUKForeign",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransSWIFTOutNonEEASterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineReplacementCardReader",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXInwardsCust",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignFXOutwards",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeMin": "20.00",
+                "FeeMax": "35.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "Less £15k - £20, else £35"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignChqDraft",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertBalance",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashGroupATMDebitCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ATMCashNonGroupATMDebitcard",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "0.55",
+						"Negotiable": false
+					}
+				}
+			},
+      {
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSItem",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkBatch",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSOnLineOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSBulkInternet",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.15",
+						"Negotiable": false
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+															{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELDirDebOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELSmartCard",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeMin": "40.00",
+						"FeeMax": "60.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£60 new card, £40 replacement or re-issue"
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELFile",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "2.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "BACSTELOverlimit",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "70.00",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+        "FeeSubType": "Regular",
+        "FeeDetail": {
+          "FeeType": "CardCardReplacement",
+          "FeeSubDetails": {
+            "FeeFrequency": "PerOccurrence",
+            "FeeAmount": "5.00",
+            "Negotiable": false
+          }
+        }
+      },
+                {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "IntlPayPaymentTracing",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "InvPayStandingOrdUnpaid",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingEnvelope",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per annum"
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingInspection",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 + VAT per inspection"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingLargeItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 + VAT per annum"
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SafeKeepingParcel",
+              "FeeSubDetails": {
+                "FeeFrequency": "Yearly",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 + VAT per annum"
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafeBankOpen",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "10.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£10 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafe",
+					"FeeSubDetails": {
+						"FeeFrequency": "Quarterly",
+						"FeeAmount": "15.00",
+						"Negotiable": false,
+						"FeesAndChargesNotes": "£15 plus VAT per quarter"
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "NightSafeNightSafePaidIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.75",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqBookTheftLossAllStopped",
+					"FeeSubDetails": {
+						"FeeFrequency": "PerOccurrence",
+						"FeeAmount": "8.50",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqDraft",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+						{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqIn",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+			},
+			          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqDraftSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          			{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqOutIssued",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+			{
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqStopped",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false
+              }
+            }
+          },
+          				{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqTrans",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.70",
+						"Negotiable": false
+					}
+				}
+			},
+							{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCounterLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+												{
+				"FeeSubType": "Regular",
+				"FeeDetail": {
+					"FeeType": "ChqCashDropLodgement",
+					"FeeSubDetails": {
+						"FeeFrequency": "Item",
+						"FeeAmount": "0.30",
+						"Negotiable": false
+					}
+				}
+				},
+				          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqChequePhotocopy",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10.00 per request up to a max of 5 cheques"
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCharge",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidTransOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ChqUnpaidCheque",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+                              {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportAuditLetter",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "40.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£40 plus VAT per report"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterestDuplicate",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportReferralItem",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+                    {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportCertInterest",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+                                        {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatusEnquiry",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "8.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£8 plus VAT"
+              }
+            }
+          },
+         {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportStatementCopy1",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+                   {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ReportTaxCert",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "5.00",
+                "Negotiable": false
+              }
+            }
+          },
+           {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPABranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "SEPACredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBillPaymentBranch",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTelephoneBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKDifferent",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransferUKSame",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransCreditTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBranchCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransDebCardDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUKDirDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualDeb",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransBuyForeignWithGBP",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionPercentage",
+                "FeeRate": "1.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "1% Commission, Min £2"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransManualTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.70",
+                "FeeMax": "0.75",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.70 for debits and £0.75 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransPOSSaleUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrd",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransStandingOrdManPay",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.70",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransTransferExGroup",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.65",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnauthorisedPaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "30.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "TransUnpaidTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "35.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedEntries",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutomatedTrans",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "0.35",
+                "FeeMax": "0.55",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.55 for debits and £0.35 for credits"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoAutoCreditPhoneInet",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoDebitCardCommercial",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "AutoFPSAutoCredit",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInternetBillPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineUrgentEuroPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "10.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£10 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBusinessOnlineForeignPayment",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "12.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£12 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbankPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineInterbranchPerTransfer",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.55",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineSubscriptionMonthly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "25.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinGBPtoUK",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "15.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£15 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlinePaymentinUSDtoUS",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerOccurrence",
+                "FeeAmount": "20.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£20 per payment plus £0.55 transaction fee"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "OnlineBulkDirectDebSterling",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeMin": "2.00",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£2 per file plus £0.15 per item within"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ForeignPurchase",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeMin": "2.00",
+                "FeeRate": "1.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "ServiceCAccountFeeQuarterly",
+              "FeeSubDetails": {
+                "FeeFrequency": "Quarterly",
+                "FeeAmount": "10.00",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCoinHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100 coin"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashIn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInNotUs",
+              "FeeSubDetails": {
+                "FeeFrequency": "Item",
+                "FeeAmount": "0.75",
+                "Negotiable": false
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashX",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "1.50",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£1.50 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCounterLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashDropLodgement",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesLodged",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterNotesOut",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterCashInOwn",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeAmount": "0.65",
+                "Negotiable": false,
+                "FeesAndChargesNotes": "£0.65 per £100"
+              }
+            }
+          },
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "CounterForeignNoteHandling",
+              "FeeSubDetails": {
+                "FeeFrequency": "PerTransactionAmount",
+                "FeeRate": "1.00",
+                "FeeMin": "2.00",
+                "Negotiable": false
+              }
+            }
+          }
+	]
+	}
+	}
+       ],
+  "Benefits": {
+    "Benefit": false
+    }
+}
+]
+}

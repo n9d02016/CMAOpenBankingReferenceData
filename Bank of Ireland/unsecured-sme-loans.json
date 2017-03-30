@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "LastUpdated": "2017-03-10T15:51:20.512Z",
+    "TotalResults": 1,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "Benefits": {
+        "Benefit": false
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "CustomerAccessChannels": [
+        "Branch",
+        "Online",
+        "Phone"
+      ],
+      "Eligibility": {
+        "AgeRestricted": true,
+        "Description": "Applications are assessed on a case-by-case basis.",
+        "IncomeTurnoverRelated": false,
+        "MinimumAge": 18,
+        "OtherFinancialHoldingRequired": false,
+        "PreviousBankruptcy": false,
+        "ResidencyRestricted": false,
+        "ThirdSectorOrganisations": true
+      },
+      "FeesAndCharges": [
+        {
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeFrequency": "StartOfLoan",
+                    "FeeMin": "100.00",
+                    "Negotiable": true
+                  },
+                  "FeeType": "LoanArrangement",
+                  "Other": "ServChrg:LendingSet-UpFee"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "50.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "Negotiable": false
+                  },
+                  "FeeType": "LegalArticlesReport",
+                  "Other": "Legal:ReportonMemoArticlesofAssociationEtc"
+                },
+                "FeeSubType": "Regular"
+              },
+              {
+                "FeeDetail": {
+                  "FeeSubDetails": {
+                    "FeeAmount": "15.00",
+                    "FeeFrequency": "PerOccurrence",
+                    "Negotiable": false
+                  },
+                  "FeeType": "LegalCoSearch",
+                  "Other": "Legal:CompanySearches(incl.outlays)"
+                },
+                "FeeSubType": "Regular"
+              }
+            ]
+          },
+          "ProductSubType": "Regular"
+        }
+      ],
+      "LoanItem": [
+        {
+          "CCARegulatedEntity": true,
+          "IsALowInterestRepaymentStartPossible": false,
+          "IsThisAnInterestOnlyLoan": false,
+          "ProductSubType": "Regular",
+          "WillTheLoanBePaidInTrancheDrawdowns": false
+        }
+      ],
+      "MaximumLoanAmount": "0.00",
+      "MaximumLoanTerm": 5475,
+      "MinimumLoanAmount": "0.00",
+      "MinimumLoanTerm": 0,
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "PaymentHoliday": false,
+      "ProductDescription": "A Term Loan is a way to finance items of capital expenditure that your business may need. It can be used in conjunction with other lending products such as an overdraft or as a stand-alone source of finance for a diverse range of business purposes for example, acquisitions, working capital and business expansion.\r\nPlease note that loans to Limited Companies are out-of-scope of CCA regulation.",
+      "ProductIdentifier": "SME Loan",
+      "ProductName": "SME Unsecured Loan",
+      "ProductSegment": [
+        "SmallLoan"
+      ],
+      "ProductTypeName": "SmeUnsecuredLoan",
+      "ProductURL": [
+        "https://boini.bankofireland.com/business/loans/"
+      ],
+      "TsandCs": [
+        "https://boini.bankofireland.com/business/current-account/"
+      ]
+    }
+  ]
+}

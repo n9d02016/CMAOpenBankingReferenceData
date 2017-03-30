@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "LastUpdated": "2017-03-17T10:19:23Z",
+    "TotalResults": 3,
+    "License": "https://openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://openbanking.org.uk/terms",
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions"
+  },
+  "data": [
+    {
+      "Organisation": {
+        "ParentOrganisation": {
+          "BIC": "FTBKGB2B",
+          "OrganisationName": {
+            "LegalName": "AIB Group (UK) p.l.c."
+          }
+        },
+        "Brand": {
+          "TrademarkIPOCode": "UK",
+          "TrademarkID": "1492899"
+        }
+      },
+      "ProductName": "AgriFood Fund",
+      "ProductIdentifier": "FTB55001.1",
+      "ProductTypeName": "SmallBusinessLoan",
+      "ProductURL": [
+        "https://firsttrustbank.co.uk/business/our-products/finance/agri-food/agri-food-fund"
+      ],
+      "ProductSegment": [
+        "AgricultureSector"
+      ],
+      "ProductDescription": "AgriFood loan allows you to finance the long-term development needs of your farm or business without placing burdens on your short term cash flow.",
+      "TsandCs": [
+        "https://firsttrustbank.co.uk/business/business-docs/our-products/finance-and-loans/business-lending-t-and-cs.pdf"
+      ],
+      "CustomerAccessChannels": [
+        "Branch",
+        "Phone"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "MinimumLoanTerm": 1,
+      "MaximumLoanTerm": 7300,
+      "MinimumLoanAmount": "1.00",
+      "MaximumLoanAmount": "25000.00",
+      "PaymentHoliday": false,
+      "LoanItem": [
+        {
+          "ProductSubType": "Promotional",
+          "CCARegulatedEntity": true,
+          "IsALowInterestRepaymentStartPossible": false,
+          "IsThisAnInterestOnlyLoan": false,
+          "WillTheLoanBePaidInTrancheDrawdowns": false
+        }
+      ],
+      "Eligibility": {
+        "AgeRestricted": false,
+        "OtherFinancialHoldingRequired": false,
+        "Description": "The loan is available for all Farms and AgriFood Businesses for the purchase of, modernisation or refurbishment of farm buildings or business premises, agricultural land, a herd or farm equipment and machinery.",
+        "IncomeTurnoverRelated": false,
+        "ResidencyRestricted": true,
+        "ThirdSectorOrganisations": false,
+        "PreviousBankruptcy": false
+      },
+      "FeesAndCharges": [
+        {
+          "ProductSubType": "Promotional",
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeSubType": "Promotional",
+                "FeeDetail": {
+                  "FeeType": "LoanArrangementFeePC",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "StartOfLoan",
+                    "FeeAmount": "55.00",
+                    "FeeRate": "1.0",
+                    "Negotiable": true,
+                    "FeesAndChargesNotes": "Normally 1% of agreed facility (minimum £55.00)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Benefits": {
+        "Benefit": false
+      }
+    },
+    {
+      "Organisation": {
+        "ParentOrganisation": {
+          "BIC": "FTBKGB2B",
+          "OrganisationName": {
+            "LegalName": "AIB Group (UK) p.l.c."
+          }
+        },
+        "Brand": {
+          "TrademarkIPOCode": "UK",
+          "TrademarkID": "1492899"
+        }
+      },
+      "ProductName": "Backing Small Business",
+      "ProductIdentifier": "FTB55001.3",
+      "ProductTypeName": "SmallBusinessLoan",
+      "ProductURL": [
+        "https://firsttrustbank.co.uk/business/our-products/finance/backing-small-business"
+      ],
+      "ProductSegment": [
+        "SmallLoan"
+      ],
+      "ProductDescription": "New or existing customer operating a small business or farm.",
+      "TsandCs": [
+        "https://firsttrustbank.co.uk/business/business-docs/our-products/finance-and-loans/business-lending-t-and-cs.pdf"
+      ],
+      "CustomerAccessChannels": [
+        "Branch",
+        "Phone"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "MinimumLoanTerm": 1,
+      "MaximumLoanTerm": 1825,
+      "MinimumLoanAmount": "1.00",
+      "MaximumLoanAmount": "25000.00",
+      "PaymentHoliday": false,
+      "LoanItem": [
+        {
+          "ProductSubType": "Promotional",
+          "CCARegulatedEntity": true,
+          "IsALowInterestRepaymentStartPossible": false,
+          "IsThisAnInterestOnlyLoan": false,
+          "WillTheLoanBePaidInTrancheDrawdowns": false
+        }
+      ],
+      "Eligibility": {
+        "AgeRestricted": false,
+        "OtherFinancialHoldingRequired": false,
+        "Description": "New and existing business customers such as sole traders, partnerships, limited liability partnerships and limited companies.",
+        "IncomeTurnoverRelated": false,
+        "ResidencyRestricted": true,
+        "ThirdSectorOrganisations": false,
+        "PreviousBankruptcy": false
+      },
+      "FeesAndCharges": [
+        {
+          "ProductSubType": "Promotional",
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeSubType": "Promotional",
+                "FeeDetail": {
+                  "FeeType": "LoanArrangementFeePC",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "StartOfLoan",
+                    "FeeAmount": "55.00",
+                    "FeeRate": "1.0",
+                    "Negotiable": true,
+                    "FeesAndChargesNotes": "Normally 1% of agreed facility (minimum £55.00)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Benefits": {
+        "Benefit": false
+      }
+    },
+    {
+      "Organisation": {
+        "ParentOrganisation": {
+          "BIC": "FTBKGB2B",
+          "OrganisationName": {
+            "LegalName": "AIB Group (UK) p.l.c."
+          }
+        },
+        "Brand": {
+          "TrademarkIPOCode": "UK",
+          "TrademarkID": "1492899"
+        }
+      },
+      "ProductName": "Business Loan",
+      "ProductIdentifier": "FTB55001.4",
+      "ProductTypeName": "SmallBusinessLoan",
+      "ProductURL": [
+        "https://firsttrustbank.co.uk/business/our-products/finance/business-loan"
+      ],
+      "ProductSegment": [
+        "SmallLoan"
+      ],
+      "ProductDescription": "Designed to give your business the support it needs, making extra medium or long-term finance available for you to continue to grow and develop your business.",
+      "TsandCs": [
+        "https://firsttrustbank.co.uk/business/business-docs/our-products/finance-and-loans/business-lending-t-and-cs.pdf"
+      ],
+      "CustomerAccessChannels": [
+        "Branch",
+        "Phone"
+      ],
+      "Currency": [
+        "GBP"
+      ],
+      "MinimumLoanTerm": 1,
+      "MaximumLoanTerm": 1825,
+      "MinimumLoanAmount": "1.00",
+      "MaximumLoanAmount": "25000.00",
+      "PaymentHoliday": false,
+      "LoanItem": [
+        {
+          "ProductSubType": "Regular",
+          "CCARegulatedEntity": true,
+          "IsALowInterestRepaymentStartPossible": false,
+          "IsThisAnInterestOnlyLoan": false,
+          "WillTheLoanBePaidInTrancheDrawdowns": false
+        }
+      ],
+      "Eligibility": {
+        "AgeRestricted": false,
+        "OtherFinancialHoldingRequired": false,
+        "Description": "New and existing business customers such as sole traders, partnerships, limited liability partnerships and limited companies.",
+        "IncomeTurnoverRelated": false,
+        "ResidencyRestricted": true,
+        "ThirdSectorOrganisations": false,
+        "PreviousBankruptcy": false
+      },
+      "FeesAndCharges": [
+        {
+          "ProductSubType": "Promotional",
+          "Fees": {
+            "FeeDetails": [
+              {
+                "FeeSubType": "Promotional",
+                "FeeDetail": {
+                  "FeeType": "LoanArrangementFeePC",
+                  "FeeSubDetails": {
+                    "FeeFrequency": "StartOfLoan",
+                    "FeeAmount": "55.00",
+                    "FeeRate": "1.0",
+                    "Negotiable": true,
+                    "FeesAndChargesNotes": "Normally 1% of agreed facility (minimum £55.00)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Benefits": {
+        "Benefit": false
+      }
+    }
+  ]
+}

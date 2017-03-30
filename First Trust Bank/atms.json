@@ -1,0 +1,4502 @@
+{
+	"meta": {
+        "LastUpdated": "2017-03-17T10:19:23Z",
+		"TotalResults": 107,
+		"License": "https://openbanking.org.uk/open-licence",
+		"TermsOfUse": "https://openbanking.org.uk/terms",
+		"Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions"
+	},
+	"data": [{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D11F",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Shipquay Street",
+    "BuildingNumberOrName": "15-17",
+    "PostCode": "BT48 6DJ",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.996088",
+    "Longitude": "-7.320917"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D12F",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Shipquay Street",
+    "BuildingNumberOrName": "15-17",
+    "PostCode": "BT48 6DJ",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.996088",
+    "Longitude": "-7.320917"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+},{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D602",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "Number 105",
+    "PostCode": "BT1 2AG",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600244",
+    "Longitude": "-5.925545"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D604",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "The Old Bank",
+    "PostCode": "BT15 2AA",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.60815",
+    "Longitude": "-5.936859"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D605",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Square",
+    "BuildingNumberOrName": "Number 35",
+    "PostCode": "BT28 1AG",
+    "TownName": "Lisburn",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.511316",
+    "Longitude": "-6.044233"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D606",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Hill Street",
+    "BuildingNumberOrName": "42-44",
+    "PostCode": "BT34 1AR",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.174693",
+    "Longitude": "-6.338512"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D607",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Wellington Street",
+    "BuildingNumberOrName": "Number 78",
+    "PostCode": "BT43 6AF",
+    "TownName": "Ballymena",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.866187",
+    "Longitude": "-6.274899"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D608",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Portadown Road",
+    "BuildingNumberOrName": "Number 50",
+    "PostCode": "BT62 2JU",
+    "OptionalAddressField": "Tandragee",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.363656",
+    "Longitude": "-6.427514"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D609",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Glenavy Road",
+    "BuildingNumberOrName": "1A",
+    "PostCode": "BT28 2EU",
+    "OptionalAddressField": "Ballinderry Upper",
+    "TownName": "Lisburn",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.543598",
+    "Longitude": "-6.200977"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D613",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Erneside Shopping Centre",
+    "BuildingNumberOrName": "Unit 25",
+    "PostCode": "BT74 6JQ",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.342535",
+    "Longitude": "-7.635639"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D614",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "Number 85",
+    "PostCode": "BT20 4BA",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.660349",
+    "Longitude": "-5.667949"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D615",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Old Mountfield Road",
+    "BuildingNumberOrName": "Number 116",
+    "PostCode": "BT79 7LT",
+    "OptionalAddressField": "Kilyclogher",
+    "TownName": "Omagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.608876",
+    "Longitude": "-7.269807"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D617",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "James Street",
+    "BuildingNumberOrName": "2-4",
+    "PostCode": "BT80 8LW",
+    "TownName": "Cookstown",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.646313",
+    "Longitude": "-6.744597"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D621",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "Number 39",
+    "PostCode": "BT23 7HS",
+    "TownName": "Newtownards",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.592684",
+    "Longitude": "-5.694891"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D628",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Bridge Street",
+    "BuildingNumberOrName": "Number 1",
+    "PostCode": "BT32 3JL",
+    "TownName": "Banbridge",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.349706",
+    "Longitude": "-6.268927"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D630",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Trustee House",
+    "PostCode": "BT41 4AN",
+    "TownName": "Antrim",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.714626",
+    "Longitude": "-6.218593"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D631",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Upper Newtownards Road",
+    "BuildingNumberOrName": "Number 306",
+    "PostCode": "BT4 3EU",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.59587",
+    "Longitude": "-5.872941"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D632",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "East Bridge Street",
+    "BuildingNumberOrName": "Number 6",
+    "PostCode": "BT74 7BT",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.344096",
+    "Longitude": "-7.635945"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D634",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Great Victoria Street",
+    "BuildingNumberOrName": "Unit 14",
+    "PostCode": "BT2 7GN",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.594298",
+    "Longitude": "-5.934963"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D635",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Ormeau Road",
+    "BuildingNumberOrName": "425-427",
+    "PostCode": "BT7 3GQ",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.575753",
+    "Longitude": "-5.917785"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D636",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Monaghan Street",
+    "PostCode": "BT35 6AA",
+    "OptionalAddressField": "Old Creamery Shopping Centre",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.176973",
+    "Longitude": "-6.342877"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D637",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Erneside Shopping Centre",
+    "BuildingNumberOrName": "Unit 25",
+    "PostCode": "BT74 6JQ",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.342535",
+    "Longitude": "-7.635639"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D639",
+  "LocationCategory": "PublicHouse",
+  "Address": {
+    "StreetName": "Antrim Road",
+    "BuildingNumberOrName": "227",
+    "PostCode": "BT15 2GY",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.615383",
+    "Longitude": "-5.937078"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D641",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "17-19",
+    "PostCode": "BT31 9DF",
+    "TownName": "Castlewellan",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.258365",
+    "Longitude": "-5.941435"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D644",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Groomsport Road",
+    "BuildingNumberOrName": "Number 103",
+    "PostCode": "BT20 5NS",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.664474",
+    "Longitude": "-5.641839"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D645",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Belmont Road",
+    "BuildingNumberOrName": "20-22",
+    "PostCode": "BT4 2AN",
+    "OptionalAddressField": "Strandtown",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600524",
+    "Longitude": "-5.876714"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D647",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Crescent Link Retail Park",
+    "BuildingNumberOrName": "Number 6",
+    "PostCode": "BT47 6SA",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.998858",
+    "Longitude": "-7.272722"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D649",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Botanic Avenue",
+    "BuildingNumberOrName": "Number 47",
+    "PostCode": "BT7 1JG",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.588764",
+    "Longitude": "-5.933685"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D650",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Blighs Lane",
+    "PostCode": "BT48 0LZ",
+    "OptionalAddressField": "Creggan",
+    "TownName": "LondonDerry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.996309",
+    "Longitude": "-7.336569"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D651",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Dungannon Road",
+    "BuildingNumberOrName": "Number 3",
+    "PostCode": "BT71 7SN",
+    "TownName": "Dungannon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.448939",
+    "Longitude": "-6.698724"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D652",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Marlborough House Central Way",
+    "PostCode": "BT64 1AJ",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.448223",
+    "Longitude": "-6.393923"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D653",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "The Square",
+    "PostCode": "BT34 3LY",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.100449",
+    "Longitude": "-6.254048"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D656",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "The Meadows",
+    "PostCode": "BT62 1AJ",
+    "OptionalAddressField": "Portadown",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.458389",
+    "Longitude": "-6.604424"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D658",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Crescent Link Retail Park",
+    "BuildingNumberOrName": "Number 6",
+    "PostCode": "BT47 6SA",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.998858",
+    "Longitude": "-7.272722"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D659",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Square",
+    "BuildingNumberOrName": "Number 35",
+    "PostCode": "BT28 1AG",
+    "TownName": "Lisburn",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.511316",
+    "Longitude": "-6.044233"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D661",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "Number 105",
+    "PostCode": "BT1 2AG",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600244",
+    "Longitude": "-5.925545"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D662",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Donegall Square North",
+    "BuildingNumberOrName": "11-15",
+    "PostCode": "BT1 5GB",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.597442",
+    "Longitude": "-5.931224"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D664",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Antrim Road",
+    "BuildingNumberOrName": "Number 322",
+    "PostCode": "BT36 5EQ",
+    "TownName": "Newtownabbey",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.672344",
+    "Longitude": "-5.960689"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D667",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Stewartstown Road",
+    "PostCode": "BT17 0LB",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.556356",
+    "Longitude": "-6.026318"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D668",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Abbots Cross",
+    "BuildingNumberOrName": "24-25",
+    "PostCode": "BT37 9QU",
+    "OptionalAddressField": "Doagh Road",
+    "TownName": "Newtownabbey",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.668708",
+    "Longitude": "-5.911859"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D669",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "The Diamond",
+    "BuildingNumberOrName": "Number 33",
+    "PostCode": "BT52 1DP",
+    "TownName": "Coleraine",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "55.131861",
+    "Longitude": "-6.671176"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D671",
+  "LocationCategory": "PublicHouse",
+  "Address": {
+    "StreetName": "Grove Road",
+    "BuildingNumberOrName": "Number 15",
+    "PostCode": "BT43 6UB",
+    "TownName": "Ballymena",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.884284",
+    "Longitude": "-6.271076"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D672",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Hill Street",
+    "BuildingNumberOrName": "42-44",
+    "PostCode": "BT34 1AR",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.174693",
+    "Longitude": "-6.338512"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D673",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "Number 8",
+    "PostCode": "BT78 1BH",
+    "TownName": "Omagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600211",
+    "Longitude": "-7.303685"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D674",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "Number 85",
+    "PostCode": "BT20 4BA",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.660349",
+    "Longitude": "-5.667949"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D677",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Greencastle Street",
+    "BuildingNumberOrName": "Number 30",
+    "PostCode": "BT34 4BH",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.061855",
+    "Longitude": "-6.009194"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D678",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "50-52",
+    "PostCode": "BT41 4DS",
+    "TownName": "Antrim",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.715034",
+    "Longitude": "-6.220049"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D679",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Antrim Road",
+    "BuildingNumberOrName": "Number 14",
+    "PostCode": "BT42 2BJ",
+    "TownName": "Ballymena",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.853911",
+    "Longitude": "-6.725578"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D680",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "Number 24",
+    "PostCode": "BT62 3LD",
+    "OptionalAddressField": "Portadown",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.422771",
+    "Longitude": "-6.44431"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D681",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "Number 24",
+    "PostCode": "BT62 3LD",
+    "OptionalAddressField": "Portadown",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.422771",
+    "Longitude": "-6.44431"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D682",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "13-15",
+    "PostCode": "BT30 6LP",
+    "TownName": "Downpatrick",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.327809",
+    "Longitude": "-5.717038"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D685",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Main Street",
+    "PostCode": "BT20 5AU",
+    "OptionalAddressField": "Main Street",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.662586",
+    "Longitude": "-5.667437"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D688",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Belfast Road",
+    "BuildingNumberOrName": "75A",
+    "PostCode": "BT38 8BY",
+    "OptionalAddressField": "Fortfield Service Station",
+    "TownName": "Carrickfergus",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.712499",
+    "Longitude": "-5.819461"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D689",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Andersonstown Road",
+    "BuildingNumberOrName": "Number 200",
+    "PostCode": "BT11 9EB",
+    "OptionalAddressField": "Andersonstown",
+    "TownName": "BELFAST",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.572842",
+    "Longitude": "-5.993794"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D691",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "Number 105",
+    "PostCode": "BT1 2AG",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600244",
+    "Longitude": "-5.925545"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D692",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Belfast Road",
+    "BuildingNumberOrName": "Number 79",
+    "PostCode": "BT66 7JS",
+    "OptionalAddressField": "Dollingstown",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.462422",
+    "Longitude": "-6.291094"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D693",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Ann Street",
+    "BuildingNumberOrName": "Number 92",
+    "PostCode": "BT1 3HH",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.599692",
+    "Longitude": "-5.922859"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D694",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "First Trust University Road",
+    "PostCode": "BT7 1NA",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.58747",
+    "Longitude": "-5.936673"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D695",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "First Trust University Road",
+    "PostCode": "BT7 1NA",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.58747",
+    "Longitude": "-5.936673"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D696",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Newcastle Road",
+    "BuildingNumberOrName": "Number 149",
+    "PostCode": "BT30 8PL",
+    "TownName": "Downpatrick",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.332198",
+    "Longitude": "-5.834713"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D698",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Spencer Road",
+    "BuildingNumberOrName": "Number 58",
+    "PostCode": "BT47 6AH",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.990228",
+    "Longitude": "-7.313504"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D699",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "Market Square",
+    "BuildingNumberOrName": "Number 35",
+    "PostCode": "BT28 1AG",
+    "TownName": "Lisburn",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.511316",
+    "Longitude": "-6.044233"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D701",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Stranmillis Road",
+    "BuildingNumberOrName": "Number 139",
+    "PostCode": "BT9 5AJ",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.578758",
+    "Longitude": "-5.934464"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D702",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Royal Avenue",
+    "BuildingNumberOrName": "Number 2",
+    "PostCode": "BT1 1DA",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600002",
+    "Longitude": "-5.931037"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D703",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Royal Avenue",
+    "BuildingNumberOrName": "Number 2",
+    "PostCode": "BT1 1DA",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.600002",
+    "Longitude": "-5.931037"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D704",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Lakeside Service Station",
+    "PostCode": "BT74 7JR",
+    "OptionalAddressField": "Queens Street",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.347538",
+    "Longitude": "-7.643937"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D706",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Main Street",
+    "PostCode": "BT20 5AU",
+    "OptionalAddressField": "Main Street",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.662586",
+    "Longitude": "-5.667437"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D708",
+  "LocationCategory": "LeisureCentre",
+  "Address": {
+    "StreetName": "Old Dundonald Road",
+    "BuildingNumberOrName": "Number 111",
+    "PostCode": "BT16 1XT",
+    "OptionalAddressField": "Dundonald",
+    "TownName": "BELFAST",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.587114",
+    "Longitude": "-5.818251"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D709",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "College Hill",
+    "PostCode": "BT61 9DF",
+    "OptionalAddressField": "Portadown Road",
+    "TownName": "Armagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.35222",
+    "Longitude": "-6.647998"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D712",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Dublin Road",
+    "PostCode": "BT74 6HN",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.341367",
+    "Longitude": "-7.627914"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D713",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Ballymena Road",
+    "PostCode": "BT41 4NU",
+    "TownName": "Antrim",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.730134",
+    "Longitude": "-6.226035"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D714",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Scotch Street",
+    "BuildingNumberOrName": "18-20",
+    "PostCode": "BT70 1AR",
+    "TownName": "Dungannon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.503661",
+    "Longitude": "-6.770208"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D715",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "The Oaks Centre",
+    "PostCode": "BT71 4NA",
+    "TownName": "Dungannon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.511433",
+    "Longitude": "-6.762951"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D719",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Blacks Road",
+    "BuildingNumberOrName": "Number 120",
+    "PostCode": "BT10 0NF",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.563536",
+    "Longitude": "-6.00186"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D721",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Ballymena Road",
+    "PostCode": "BT41 4NU",
+    "TownName": "Antrim",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.730134",
+    "Longitude": "-6.226035"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D724",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Lisburn Road",
+    "BuildingNumberOrName": "509-511",
+    "PostCode": "BT9 7EZ",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.577342",
+    "Longitude": "-5.953237"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D726",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Bridge Street",
+    "BuildingNumberOrName": "Number 1",
+    "PostCode": "BT32 3JL",
+    "TownName": "Banbridge",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.349706",
+    "Longitude": "-6.268927"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D727",
+  "LocationCategory": "CommercialSpaceInternal",
+  "Address": {
+    "StreetName": "Cineplex",
+    "PostCode": "BT30 6FJ",
+    "TownName": "Downpatrick",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.323383",
+    "Longitude": "-5.713869"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D728",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Crumlin Road",
+    "BuildingNumberOrName": "Number 64",
+    "PostCode": "BT14 6AG",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.608038",
+    "Longitude": "-5.939157"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D729",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "O'Neill Road",
+    "BuildingNumberOrName": "Number 51",
+    "PostCode": "BT36 6UN",
+    "TownName": "Newtownabbey",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.669038",
+    "Longitude": "-5.934112"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D732",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "Hill Street",
+    "BuildingNumberOrName": "42-44",
+    "PostCode": "BT34 1AR",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.174693",
+    "Longitude": "-6.338512"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "EUR"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D740",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Buttercrane Shopping Centre",
+    "PostCode": "BT35 8HJ",
+    "OptionalAddressField": "Buttercrane Quay",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.172172",
+    "Longitude": "-6.341315"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D741",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Buttercrane Shopping Centre",
+    "PostCode": "BT35 8HJ",
+    "OptionalAddressField": "Buttercrane Quay",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.172172",
+    "Longitude": "-6.341315"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D743",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Dobbin Road",
+    "BuildingNumberOrName": "Number 42",
+    "PostCode": "BT62 4EY",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.400319",
+    "Longitude": "-6.483107"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D744",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "First Trust Upper English St",
+    "PostCode": "BT61 7LD",
+    "TownName": "Armagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.349633",
+    "Longitude": "-6.655098"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D745",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "4-8",
+    "PostCode": "BT66 6AQ",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.462599",
+    "Longitude": "-6.332217"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D746",
+  "LocationCategory": "Hospital",
+  "Address": {
+    "StreetName": "Altangelvin",
+    "PostCode": "BT47 6SB",
+    "OptionalAddressField": "Altangelvin",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.98541",
+    "Longitude": "-7.293133"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D749",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "6-8",
+    "PostCode": "BT45 6ED",
+    "TownName": "Magherafelt",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.754996",
+    "Longitude": "-6.606749"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D880",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Falls Road",
+    "BuildingNumberOrName": "Number 564",
+    "PostCode": "BT11 9AE",
+    "OptionalAddressField": "Kennedy Centre",
+    "TownName": "BELFAST",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.581274",
+    "Longitude": "-5.978393"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D882",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Strand Road",
+    "PostCode": "BT48 7BL",
+    "OptionalAddressField": "Meadownbank Quay",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.999757",
+    "Longitude": "-7.322202"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D883",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Strand Road",
+    "PostCode": "BT48 7BL",
+    "OptionalAddressField": "Meadownbank Quay",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.999757",
+    "Longitude": "-7.322202"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D884",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Strand Road",
+    "PostCode": "BT48 7BL",
+    "OptionalAddressField": "Meadownbank Quay",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.999757",
+    "Longitude": "-7.322202"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "EUR"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D888",
+  "LocationCategory": "FinancialInstitution",
+  "Address": {
+    "StreetName": "Donegall Square North",
+    "BuildingNumberOrName": "11-15",
+    "PostCode": "BT1 5GB",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.597442",
+    "Longitude": "-5.931224"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D889",
+  "LocationCategory": "BranchInternal",
+  "Address": {
+    "StreetName": "Donegall Square North",
+    "BuildingNumberOrName": "11-15",
+    "PostCode": "BT1 5GB",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.597442",
+    "Longitude": "-5.931224"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "EUR"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D895",
+  "LocationCategory": "ShoppingCentreExternal",
+  "Address": {
+    "StreetName": "Parkcentre",
+    "BuildingNumberOrName": "Unit 9",
+    "PostCode": "BT12 6HN",
+    "OptionalAddressField": "Donegall Road",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.589225",
+    "Longitude": "-5.962241"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D920",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "Number 71",
+    "PostCode": "BT82 8AU",
+    "TownName": "Strabane",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.825643",
+    "Longitude": "-7.463748"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D923",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Andersonstown Road",
+    "BuildingNumberOrName": "156-160",
+    "PostCode": "BT11 9BY",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.57328",
+    "Longitude": "-5.988713"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D925",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "Number 31",
+    "PostCode": "BT33 0AD",
+    "TownName": "Newcastle",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.213848",
+    "Longitude": "-5.889065"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D926",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "Number 31",
+    "PostCode": "BT33 0AD",
+    "TownName": "Newcastle",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.213848",
+    "Longitude": "-5.889065"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D927",
+  "LocationCategory": "Hotel",
+  "Address": {
+    "StreetName": "Cromac Place",
+    "BuildingNumberOrName": "Number 1",
+    "PostCode": "BT7 2JB",
+    "OptionalAddressField": "Cromac Place",
+    "TownName": "BELFAST",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.590609",
+    "Longitude": "-5.923131"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D928",
+  "LocationCategory": "RemoteUnit",
+  "Address": {
+    "StreetName": "Racecourse Road",
+    "PostCode": "BT48 8NL",
+    "OptionalAddressField": "Pennyburn",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "55.026408",
+    "Longitude": "-7.315983"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D929",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Wellington Street",
+    "BuildingNumberOrName": "Number 78",
+    "PostCode": "BT43 6AF",
+    "TownName": "Ballymena",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.866187",
+    "Longitude": "-6.274899"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D930",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Moy Road",
+    "PostCode": "BT61 8DR",
+    "TownName": "Armagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.392294",
+    "Longitude": "-6.669803"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D932",
+  "LocationCategory": "BranchExternal",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "4-8",
+    "PostCode": "BT66 6AQ",
+    "TownName": "Craigavon",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.462599",
+    "Longitude": "-6.332217"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D933",
+  "LocationCategory": "Airport",
+  "Address": {
+    "StreetName": "Airport Road",
+    "PostCode": "BT47 3GY",
+    "OptionalAddressField": "Airport Road",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "55.03936",
+    "Longitude": "-7.157613"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D934",
+  "LocationCategory": "RetailerOutlet",
+  "Address": {
+    "StreetName": "Balmoral Business Park",
+    "PostCode": "BT12 6HU",
+    "OptionalAddressField": "Boucher Crescent",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.579514",
+    "Longitude": "-5.967104"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£5"
+}, {
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "ATMID": "D936",
+  "LocationCategory": "UniversityOrCollege",
+  "Address": {
+    "StreetName": "Mountjoy Road",
+    "BuildingNumberOrName": "Number 2",
+    "PostCode": "BT79 7AH",
+    "TownName": "Omagh",
+    "Country": "NIR"
+  },
+  "GeographicLocation": {
+    "Latitude": "54.601819",
+    "Longitude": "-7.302515"
+  },
+  "SupportedLanguages": [
+    "ENG"
+  ],
+  "ATMServices": [
+    "Balance",
+    "CashWithdrawal",
+    
+    "MiniStatement",
+    "MobilePhoneTopUp",
+    "OrderStatement",
+    "PINChange"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumValueDispensed": "£10"
+}
+]
+}

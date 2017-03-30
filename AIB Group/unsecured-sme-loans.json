@@ -1,0 +1,173 @@
+{
+	"meta": {
+        "LastUpdated": "2017-03-17T10:19:23Z",
+		"TotalResults": 2,
+		"License": "https://openbanking.org.uk/open-licence",
+		"TermsOfUse": "https://openbanking.org.uk/terms",
+		"Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions"
+	},
+	"data": [
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "AIBKGB2L",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "2111729"
+    }
+  },
+  "ProductName": "Business Loan",
+  "ProductIdentifier": "GB55001",
+  "ProductTypeName": "SmallBusinessLoan",
+  "ProductURL": [
+    "https://aibgb.co.uk/our-products/finance-and-loans/business-loan"
+  ],
+  "ProductSegment": [
+    "SmallLoan"
+  ],
+  "ProductDescription": "Flexible & competitive loans that match the needs of your business",
+  "TsandCs": [
+    "https://aibgb.co.uk/content/dam/gb/business/Documents/terms-and-conditions/business-banking-terms-and-conditions.pdf"
+  ],
+  "CustomerAccessChannels": [
+    "Branch",
+    "Phone"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumLoanTerm": 1,
+  "MaximumLoanTerm": 2555,
+  "MinimumLoanAmount": "1.00",
+  "MaximumLoanAmount": "25000.00",
+  "PaymentHoliday": false,
+  "LoanItem": [
+    {
+      "ProductSubType": "Regular",
+      "CCARegulatedEntity": true,
+	  "IsALowInterestRepaymentStartPossible": false,
+	  "IsThisAnInterestOnlyLoan": false,
+	  "WillTheLoanBePaidInTrancheDrawdowns": false
+    }
+  ],
+  "Eligibility": {
+    "AgeRestricted": false,
+    "OtherFinancialHoldingRequired": false,
+    "Description": "Business Customers",
+    "IncomeTurnoverRelated": false,
+    "ResidencyRestricted": true,
+    "ThirdSectorOrganisations": false,
+    "PreviousBankruptcy": true
+  },
+  "FeesAndCharges": [
+    {
+      "ProductSubType": "Regular",
+      "Fees": {
+        "FeeDetails": [
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "LoanArrangementFeePC",
+              "FeeSubDetails": {
+                "FeeFrequency": "StartOfLoan",
+                "FeeRate": "1.5",
+                "Negotiable": true,
+                "FeesAndChargesNotes": "Normally 1.5% (minimum £500)"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "Benefits": {
+    "Benefit": false
+  }
+},
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "AIBKGB2L",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "2111729"
+    }
+  },
+  "ProductName": "Business Loan Interest Only",
+  "ProductIdentifier": "GB55003",
+  "ProductTypeName": "SmallBusinessLoan",
+  "ProductURL": [
+    "https://aibgb.co.uk/our-products/finance-and-loans/business-loan"
+  ],
+  "ProductSegment": [
+    "SmallLoan"
+  ],
+  "ProductDescription": "Flexible & competitive loans that match the needs of your business",
+  "TsandCs": [
+    "https://aibgb.co.uk/content/dam/gb/business/Documents/terms-and-conditions/business-banking-terms-and-conditions.pdf"
+  ],
+  "CustomerAccessChannels": [
+    "Branch",
+    "Phone"
+  ],
+  "Currency": [
+    "GBP"
+  ],
+  "MinimumLoanTerm": 1,
+  "MaximumLoanTerm": 2555,
+  "MinimumLoanAmount": "1.00",
+  "MaximumLoanAmount": "25000.00",
+  "PaymentHoliday": false,
+  "LoanItem": [
+    {
+      "ProductSubType": "Regular",
+      "CCARegulatedEntity": true,
+	  "IsALowInterestRepaymentStartPossible": false,
+	  "IsThisAnInterestOnlyLoan": true,
+	  "WillTheLoanBePaidInTrancheDrawdowns": false
+    }
+  ],
+  "Eligibility": {
+    "AgeRestricted": false,
+    "OtherFinancialHoldingRequired": false,
+    "Description": "Business Customers",
+    "IncomeTurnoverRelated": false,
+    "ResidencyRestricted": true,
+    "ThirdSectorOrganisations": false,
+    "PreviousBankruptcy": true
+  },
+  "FeesAndCharges": [
+    {
+      "ProductSubType": "Regular",
+      "Fees": {
+        "FeeDetails": [
+          {
+            "FeeSubType": "Regular",
+            "FeeDetail": {
+              "FeeType": "LoanArrangementFeePC",
+              "FeeSubDetails": {
+                "FeeFrequency": "StartOfLoan",
+                "FeeRate": "1.5",
+                "Negotiable": true,
+                "FeesAndChargesNotes": "Normally 1.5% (minimum £500)"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "Benefits": {
+    "Benefit": false
+  }
+}
+]
+}

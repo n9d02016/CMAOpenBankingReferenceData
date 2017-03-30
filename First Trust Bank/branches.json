@@ -1,0 +1,2172 @@
+{
+	"meta": {
+        "LastUpdated": "2017-03-17T10:19:23Z",
+		"TotalResults": 30,
+		"License": "https://openbanking.org.uk/open-licence",
+		"TermsOfUse": "https://openbanking.org.uk/terms",
+		"Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions"
+	},
+	"data": [
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Andersonstown",
+  "BranchIdentification": "FTB1219750570349",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Andersonstown Road",
+    "BuildingNumberOrName": "156-160",
+    "PostCode": "BT11 9BY",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.573372",
+    "Longitude": "-5.989475"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Antrim",
+  "BranchIdentification": "FTB1219750567552",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "50-52",
+    "PostCode": "BT41 4DS",
+    "TownName": "Antrim",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.714874",
+    "Longitude": "-6.220285"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Armagh",
+  "BranchIdentification": "FTB1219657269658",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "English Street",
+    "BuildingNumberOrName": "First Trust",
+    "PostCode": "BT61 7LD",
+    "TownName": "Armagh",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.349549",
+    "Longitude": "-6.65499"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Ballymena",
+  "BranchIdentification": "FTB1219750583130",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Wellington Street",
+    "BuildingNumberOrName": "No.78",
+    "PostCode": "BT43 6AF",
+    "TownName": "Ballymena",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.866155",
+    "Longitude": "-6.274465"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Banbridge",
+  "BranchIdentification": "FTB1219657269661",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Bridge Street",
+    "BuildingNumberOrName": "No. 1",
+    "PostCode": "BT32 3JL",
+    "TownName": "Banbridge",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.348785",
+    "Longitude": "-6.269838"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Bangor",
+  "BranchIdentification": "FTB1219657269662",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "No. 85",
+    "PostCode": "BT20 4BA",
+    "TownName": "Bangor",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.660486",
+    "Longitude": "-5.668152"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Coleraine",
+  "BranchIdentification": "FTB1219657269670",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "The Diamond",
+    "BuildingNumberOrName": "No. 33",
+    "PostCode": "BT52 1DP",
+    "TownName": "Coleraine",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "55.131728",
+    "Longitude": "-6.670829"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Cookstown",
+  "BranchIdentification": "FTB1219657269674",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "James Street",
+    "BuildingNumberOrName": "2-4",
+    "PostCode": "BT80 8LW",
+    "TownName": "Cookstown",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.646643",
+    "Longitude": "-6.744951"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Crescent Link",
+  "BranchIdentification": "FTB1219657269671",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Crescent Link Retail Park",
+    "BuildingNumberOrName": "Unit 20",
+    "PostCode": "BT47 5FX",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.999909",
+    "Longitude": "-7.274871"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Donegall Square North",
+  "BranchIdentification": "FTB1219421708398",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Donegall Square North",
+    "BuildingNumberOrName": "11-15",
+    "PostCode": "BT1 5GB ",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.597334",
+    "Longitude": "-5.931288"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "19:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "13:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Downpatrick",
+  "BranchIdentification": "FTB1219657269663",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "No. 15",
+    "PostCode": "BT30 6LP",
+    "TownName": "Downpatrick",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.328337",
+    "Longitude": "-5.715984"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Dungannon",
+  "BranchIdentification": "FTB1219657269675",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Scotch Street",
+    "BuildingNumberOrName": "18-20",
+    "PostCode": "BT70 1AZ",
+    "TownName": "Dungannon",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.503732",
+    "Longitude": "-6.770307"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Enniskillen",
+  "BranchIdentification": "FTB1219657269669",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "East Bridge Street",
+    "BuildingNumberOrName": "2-6",
+    "PostCode": "BT74 7BT",
+    "TownName": "Enniskillen",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.34415",
+    "Longitude": "-7.63709"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Glengormley",
+  "BranchIdentification": "FTB1219750569400",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Antrim Road",
+    "BuildingNumberOrName": "No. 322",
+    "PostCode": "BT36 5EQ",
+    "TownName": "Newtownabbey",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.671529",
+    "Longitude": "-5.92903"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "High Street, Belfast",
+  "BranchIdentification": "FTB1219421705715",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "31-35",
+    "PostCode": "BT1 2AL",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.599817",
+    "Longitude": "-5.927328"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Kilkeel",
+  "BranchIdentification": "FTB1219657269664",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Greencastle Street",
+    "BuildingNumberOrName": "No. 30",
+    "PostCode": "BT34 4BH",
+    "TownName": "Kilkeel",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.061965",
+    "Longitude": "-6.008752"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Knock",
+  "BranchIdentification": "FTB1219421702899",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Upper Newtownards Road",
+    "BuildingNumberOrName": "No. 306",
+    "PostCode": "BT4 3EU",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.595404",
+    "Longitude": "-5.870626"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Lisburn",
+  "BranchIdentification": "FTB1221564396361",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Market Square",
+    "BuildingNumberOrName": "34-36",
+    "PostCode": "BT28 1AG",
+    "TownName": "Lisburn",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.511165",
+    "Longitude": "-6.044807"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Lurgan",
+  "BranchIdentification": "FTB1219657269659",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "4-8",
+    "PostCode": "BT66 6AQ",
+    "TownName": "Lurgan",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.462823",
+    "Longitude": "-6.33308"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Magherafelt",
+  "BranchIdentification": "FTB1219657269672",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "The Diamond",
+    "BuildingNumberOrName": "First Trust",
+    "PostCode": "BT45 5AG",
+    "TownName": "Magherafelt",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.755367",
+    "Longitude": "-6.608502"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Meadowbank",
+  "BranchIdentification": "FTB1219657269673",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Strand Road",
+    "BuildingNumberOrName": "Meadowbank",
+    "PostCode": "BT48 7TN",
+    "TownName": "Londonderry",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "55.010478",
+    "Longitude": "-7.316584"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Newcastle",
+  "BranchIdentification": "FTB1219657269665",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "28-32",
+    "PostCode": "BT33 0AD",
+    "TownName": "Newcastle",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.213459",
+    "Longitude": "-5.888867"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Newry",
+  "BranchIdentification": "FTB1219657269666",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Hill Street",
+    "BuildingNumberOrName": "42-44",
+    "PostCode": "BT34 1AU",
+    "TownName": "Newry",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.174744",
+    "Longitude": "-6.338329"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Newtownards",
+  "BranchIdentification": "FTB1219657269667",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "No. 39",
+    "PostCode": "BT23 7HS",
+    "TownName": "Newtownards",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.592802",
+    "Longitude": "-5.694743"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Omagh",
+  "BranchIdentification": "FTB1219657269676",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "High Street",
+    "BuildingNumberOrName": "No. 8",
+    "PostCode": "BT78 1BH",
+    "TownName": "Omagh",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.60011",
+    "Longitude": "-7.303728"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Ormeau Road",
+  "BranchIdentification": "FTB1219750582681",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Ormeau Road",
+    "BuildingNumberOrName": "425-427",
+    "PostCode": "BT7 3GQ",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.576317",
+    "Longitude": "-5.917734"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Portadown",
+  "BranchIdentification": "FTB1219657269660",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Market Street",
+    "BuildingNumberOrName": "No. 24",
+    "PostCode": "BT62 3LD",
+    "TownName": "Portadown",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.422691",
+    "Longitude": "-6.44402"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Strabane",
+  "BranchIdentification": "FTB1219657269677",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "Main Street",
+    "BuildingNumberOrName": "No. 71",
+    "PostCode": "BT82 8AU",
+    "TownName": "Strabane",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.825877",
+    "Longitude": "-7.464372"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "University Road",
+  "BranchIdentification": "FTB1219657269657",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "University Road",
+    "BuildingNumberOrName": "No. 35",
+    "PostCode": "BT7 1ND",
+    "TownName": "Belfast",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.586301",
+    "Longitude": "-5.936054"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+},
+
+{
+  "Organisation": {
+    "ParentOrganisation": {
+      "BIC": "FTBKGB2B",
+      "OrganisationName": {
+        "LegalName": "AIB Group (UK) p.l.c."
+      }
+    },
+    "Brand": {
+      "TrademarkIPOCode": "UK",
+      "TrademarkID": "1492899"
+    }
+  },
+  "BranchName": "Warrenpoint",
+  "BranchIdentification": "FTB1219657269668",
+  "BranchType": "Physical",
+  "Address": {
+    "StreetName": "The Square",
+    "BuildingNumberOrName": "No. 1",
+    "PostCode": "BT34 3LY",
+    "TownName": "Warrenpoint",
+    "Country": "NIR"
+  },
+  "TelephoneNumber": "+345-6005-925",
+  "GeographicLocation": {
+    "Latitude": "54.100842",
+    "Longitude": "-6.253769"
+  },
+  "OpeningTimes": [
+    {
+      "OpeningDay": "Monday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Tuesday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Wednesday",
+      "OpeningTime": "10:00:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Thursday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Friday",
+      "OpeningTime": "09:30:00 000Z",
+      "ClosingTime": "16:30:00 000Z"
+    },
+    {
+      "OpeningDay": "Saturday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    },
+    {
+      "OpeningDay": "Sunday",
+      "OpeningTime": "00:00:00 000Z",
+      "ClosingTime": "00:00:00 000Z"
+    }
+  ],
+  "CustomerSegment": [
+    "Business",
+    "Personal"
+  ],
+  "ATMAtBranch": true
+}
+
+
+]
+}

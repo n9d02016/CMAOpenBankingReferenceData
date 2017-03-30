@@ -1,0 +1,3242 @@
+{
+  "meta": {
+    "LastUpdated": "2017-03-10T15:51:20.512Z",
+    "TotalResults": 30,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "4-8",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT12BA",
+        "StreetName": "High Street",
+        "TownName": "Belfast"
+      },
+      "BranchIdentification": "Belfast City Branch",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.5996032,-5.9282088,3a,90y,327.98h,100.44t/data=!3m6!1e1!3m4!1s6UAgS6h2Y4ALDQaQ8EZytg!2e0!7i13312!8i6656!6m1!1e1?hl=en-IE",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890234388"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5996032",
+        "Longitude": "-5.9282088"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890244901"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "202",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT119EB",
+        "StreetName": "Andersonstown Road",
+        "TownName": "Belfast"
+      },
+      "BranchFacilitiesName": [
+        "Parking"
+      ],
+      "BranchIdentification": "Andersonstown",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.5730649,-5.9932975,3a,75y,173.63h,85.1t/data=!3m6!1e1!3m4!1s9sF7ewAUzjXNb0Mjm4Wz-w!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890603494"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5730649",
+        "Longitude": "-5.9932975"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890602787"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "82 A",
+        "Country": "GB",
+        "CountrySubDivision": "Down",
+        "PostCode": "BT204AG",
+        "StreetName": "Main Street",
+        "TownName": "Bangor"
+      },
+      "BranchIdentification": "Bangor",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.6609017,-5.6680963,3a,75y,282.15h,94.18t/data=!3m6!1e1!3m4!1sbdLgvzGonfibdkELp9TBaA!2e0!7i13312!8i6656!6m1!1e1?hl=en-IE",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2891271622"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.6609017",
+        "Longitude": "-5.6609017"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2891270689"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "25",
+        "Country": "GB",
+        "CountrySubDivision": "Tyrone",
+        "PostCode": "BT790AE",
+        "StreetName": "Campsie Road",
+        "TownName": "Omagh"
+      },
+      "BranchIdentification": "Omagh",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.6007203,-7.2949143,3a,75y,175.68h,88.92t/data=!3m6!1e1!3m4!1sG0YDNi0WMuDAtUmD-Hoqkg!2e0!7i13312!8i6656!6m1!1e1?hl=en-IE",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2882246200"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.6007203",
+        "Longitude": "-7.2949143"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2882247821"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "2",
+        "Country": "GB",
+        "CountrySubDivision": "Derry",
+        "PostCode": "BT521DE",
+        "StreetName": "The Diamond",
+        "TownName": "Coleraine"
+      },
+      "BranchIdentification": "Coleraine",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2870353293"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.1314403",
+        "Longitude": "-6.6714563"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2870342176"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "27",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT414AX",
+        "StreetName": "High Street",
+        "TownName": "Antrim"
+      },
+      "BranchIdentification": "Antrim",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.7144155,-6.218782,3a,75y,217.33h,96.64t/data=!3m6!1e1!3m4!1s38GoJDSnO8wda5xSpgkr7w!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2894465810"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.7144155",
+        "Longitude": "-6.218782"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "PlannedBranchClosure": [
+        {
+          "StartDate": "2017-03-10"
+        }
+      ],
+      "TelephoneNumber": "+44-2894463777"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "275/279",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT367QN",
+        "StreetName": "Antrim Road",
+        "TownName": "Glengormley"
+      },
+      "BranchIdentification": "Glengormley",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.6701041,-5.9570523,3a,89.2y,84.47h,79.96t/data=!3m6!1e1!3m4!1sHiy89VBOhpX8lTCpHW5H1A!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890342804"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.6701041",
+        "Longitude": "-5.9570523"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890342531"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "364",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT9 6GL",
+        "StreetName": "Lisburn Road",
+        "TownName": "Belfast"
+      },
+      "BranchIdentification": "Lisburn Road",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.5732327,-5.9587732,3a,75y,108.09h,78.53t/data=!3m6!1e1!3m4!1stNpesOZdQMI7CfcRO_2FhA!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890381093"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5732327",
+        "Longitude": "-5.9587732"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890669522"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "306-310",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT72GE",
+        "StreetName": "Ormeau Road",
+        "TownName": "Belfast"
+      },
+      "BranchIdentification": "Ormeau Road",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.5762687,-5.9175502,3a,90y,88.84h,96.41t/data=!3m6!1e1!3m4!1sCX_tkYiLU7_iAa74MRl_Yw!2e0!7i13312!8i6656!6m1!1e1?hl=en-IE6.6714564,3a,75y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Fs0.geograph.org.uk%2Fgeophotos%2F03%2F49%2F14%2F3491402_b78992f8.jpg!2e7!3e27!6s%2F%2Flh4.googleusercontent.com%2Fproxy%2FzWqWJ7rxzHDpOUvrQc5kfMLR43DgXMPax-gnaahw4Ie9EqdqeCdNw5jIjtcTDopPeQ6OBf2QY0NDyCQn48n1Ar6CJQMQhIBATaBkXN5_vm5UTwhRvbir5xRg2KEaV8QI23i2czIFDVfV69weZs4nQcc1f6hciA%3Dw114-h86!7i640!8i480!4m5!3m4!1s0x48603b4b4886578d:0x9b37c0e139fbf4e9!8m2!3d55.1313756!4d-6.6708659!6m1!1e1?hl=en-IE",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890642771"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5762687",
+        "Longitude": "-5.9175502"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890459082"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "28",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT71NH",
+        "StreetName": "University Road",
+        "TownName": "Belfast"
+      },
+      "BranchIdentification": "University Road",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.5869609,-5.9358893,3a,75y,97.84h,96.12t/data=!3m6!1e1!3m4!1sr0xykNrM9xHXBe_Zdthl6A!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2890438367"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5869609",
+        "Longitude": "-5.9358893"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2890245616"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "11",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT617BH",
+        "StreetName": "Upper English Street",
+        "TownName": "Armagh"
+      },
+      "BranchIdentification": "Armagh",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.3485648,-6.6533982,3a,90y,92.6h,92.83t/data=!3m6!1e1!3m4!1sceVz56RQtq1ee_cAxYlGYg!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2837527938"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.3485648",
+        "Longitude": "-6.6533982"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2837522800"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "17-21",
+        "Country": "GB",
+        "CountrySubDivision": "Down",
+        "PostCode": "BT323JL",
+        "StreetName": "Bridge Street",
+        "TownName": "Banbridge"
+      },
+      "BranchFacilitiesName": [
+        "Parking"
+      ],
+      "BranchIdentification": "Banbridge",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.3491977,-6.269643,3a,90y,95.93h,89.72t/data=!3m6!1e1!3m4!1s6Fz0JGTlrtDywoIwX_xBQw!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2840624179"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.3491977",
+        "Longitude": "-6.269643"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2840622476"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "53",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT359HQ",
+        "StreetName": "The Square",
+        "TownName": "Crossmaglen"
+      },
+      "BranchIdentification": "Crossmaglen",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.0776051,-6.6077818,3a,75y,47.13h,93.7t/data=!3m6!1e1!3m4!1sFQmGq7P4q7srM5hUES_nEw!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2830868184"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.0776051",
+        "Longitude": "-6.6077818"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2830861238"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "80-82",
+        "Country": "GB",
+        "CountrySubDivision": "Down",
+        "PostCode": "BT306LZ",
+        "StreetName": "Market Street",
+        "TownName": "Downpatrick"
+      },
+      "BranchIdentification": "Downpatrick",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.3268481,-5.7180145,3a,75y,162.76h,98.12t/data=!3m6!1e1!3m4!1slg4IlZndnb1UVNZ1wInqOA!2e0!7i13312!8i6656!6m1!1e1?hl=en-IE6.6714564,3a,75y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Fs0.geograph.org.uk%2Fgeophotos%2F03%2F49%2F14%2F3491402_b78992f8.jpg!2e7!3e27!6s%2F%2Flh4.googleusercontent.com%2Fproxy%2FzWqWJ7rxzHDpOUvrQc5kfMLR43DgXMPax-gnaahw4Ie9EqdqeCdNw5jIjtcTDopPeQ6OBf2QY0NDyCQn48n1Ar6CJQMQhIBATaBkXN5_vm5UTwhRvbir5xRg2KEaV8QI23i2czIFDVfV69weZs4nQcc1f6hciA%3Dw114-h86!7i640!8i480!4m5!3m4!1s0x48603b4b4886578d:0x9b37c0e139fbf4e9!8m2!3d55.1313756!4d-6.6708659!6m1!1e1?hl=en-IE",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2844614485"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.3268481",
+        "Longitude": "-5.7180145"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2844612911"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "24",
+        "Country": "GB",
+        "CountrySubDivision": "Tyrone",
+        "PostCode": "BT701AR",
+        "StreetName": "Scotch Street",
+        "TownName": "Dungannon"
+      },
+      "BranchIdentification": "Dungannon",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/place/Bank+of+Ireland/@54.503559,-6.7706644,3a,90y,137.03h,102.21t/data=!3m7!1e1!3m5!1sMjoDoP0ut69AcK3UqDnZKg!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DMjoDoP0ut69AcK3UqDnZKg%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D119.29099%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m5!3m4!1s0x48608c01468f9cc5:0xf03fa72799d02ab4!8m2!3d54.503502!4d-6.770548!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2887724125"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.503559",
+        "Longitude": "-6.7706644"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2887725242"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "14",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT603SU",
+        "StreetName": "Kinelowen Street",
+        "TownName": "Keady"
+      },
+      "BranchIdentification": "Keady",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.2495045,-6.70413,3a,75y,95.42h,85.13t/data=!3m6!1e1!3m4!1sXLNlscbZbNR24aLXMvSCkQ!2e0!7i13312!8i6656",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2837538986"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.2495045",
+        "Longitude": "-6.70413"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2837531210"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "22-24",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT281AG",
+        "StreetName": "Market Square",
+        "TownName": "Lisburn"
+      },
+      "BranchFacilitiesName": [
+        "Parking"
+      ],
+      "BranchIdentification": "Lisburn",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.com/maps/@54.5110223,-6.0441888,3a,75y,0.68h,78.3t/data=!3m6!1e1!3m4!1sMGVtgWXURggxfr9i1crnww!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2892607342"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5110223",
+        "Longitude": "-6.0441888"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2892675347"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "13",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT666AR",
+        "StreetName": "Market Street",
+        "TownName": "Lurgan"
+      },
+      "BranchIdentification": "Lurgan",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.ie/maps/@54.4625759,-6.333072,3a,90y,223.72h,88.27t/data=!3m6!1e1!3m4!1sgcK-nps0ShVPOcEdoKuOpQ!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2838327378"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.4625759",
+        "Longitude": "-6.333072"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2838322866"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "12",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT341DN",
+        "StreetName": "Trevor Hill",
+        "TownName": "Newry"
+      },
+      "BranchFacilitiesName": [
+        "Parking"
+      ],
+      "BranchIdentification": "Newry",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.ie/maps/@54.178592,-6.3348799,3a,90y,139.59h,101.6t/data=!3m6!1e1!3m4!1sDCG2pPk8-fLfGk5wztA4mw!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2830263125"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.178592",
+        "Longitude": "-6.3348799"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2830265137"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "43",
+        "Country": "GB",
+        "CountrySubDivision": "Armagh",
+        "PostCode": "BT621HY",
+        "StreetName": "High Street",
+        "TownName": "Portadown"
+      },
+      "BranchIdentification": "Portadown",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.ie/maps/@54.4230549,-6.4428088,3a,75y,317.36h,94.01t/data=!3m6!1e1!3m4!1sSDYyiNzk8wUqd3UisQEecw!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2838330684"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.4230549",
+        "Longitude": "-6.4428088"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2838332104"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "155",
+        "Country": "GB",
+        "CountrySubDivision": "Antrim",
+        "PostCode": "BT436DG",
+        "StreetName": "Church Street",
+        "TownName": "Ballymena"
+      },
+      "BranchFacilitiesName": [
+        "Parking"
+      ],
+      "BranchIdentification": "Ballymena",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/place/Bank+Of+Ireland/@54.8664141,-6.2736512,3a,75y,126.87h,89.63t/data=!3m6!1e1!3m4!1sEqTsOv-PfMvbMPk0v72o1A!2e0!7i13312!8i6656!4m5!3m4!1s0x4861b34aaed7eecf:0x3db67abb4ae0795e!8m2!3d54.8664344!4d-6.2733513!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2825648138"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.8664141",
+        "Longitude": "-6.2736512"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2825652443"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "32",
+        "Country": "GB",
+        "CountrySubDivision": "Tyrone",
+        "PostCode": "BT808LT",
+        "StreetName": "James Street",
+        "TownName": "Cookstown"
+      },
+      "BranchIdentification": "Cookstown",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.ie/maps/@54.6456911,-6.7450563,3a,37.5y,82.17h,94.17t/data=!3m6!1e1!3m4!1sGfHwGCSw6IKS0MMwASTZ9g!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2886762301"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.6456911",
+        "Longitude": "-6.7450563"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2886758700"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "Unit A 37/39",
+        "Country": "GB",
+        "CountrySubDivision": "Derry",
+        "PostCode": "BT49OEP",
+        "StreetName": "Main Street",
+        "TownName": "Limavday"
+      },
+      "BranchIdentification": "Limavady",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@55.0518437,-6.9520748,3a,75y,163.63h,75.21t/data=!3m6!1e1!3m4!1sBQ8mb6_AOcEB8j1VFbbUYw!2e0!7i13312!8i6656",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2877764878"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.0518437",
+        "Longitude": "-6.9520748"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2877765351"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "11",
+        "Country": "GB",
+        "CountrySubDivision": "Derry",
+        "PostCode": "BT456EE",
+        "StreetName": "Market Street",
+        "TownName": "Magherafelt"
+      },
+      "BranchIdentification": "Magherafelt",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.ie/maps/@54.7551761,-6.6078557,3a,75y,170.91h,96.03t/data=!3m6!1e1!3m4!1s9IzbLcoL3FkZ1GgAYBS78A!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2879631838"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.7551761",
+        "Longitude": "-6.6078557"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2879631703"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "27",
+        "Country": "GB",
+        "CountrySubDivision": "Derry",
+        "PostCode": "BT488JB",
+        "StreetName": "Culmore road",
+        "TownName": "Derry"
+      },
+      "BranchIdentification": "Culmore Road",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@55.0153979,-7.3123536,3a,37.5y,160.03h,88.81t/data=!3m6!1e1!3m4!1s81iuitPYZldurx4w2TChsg!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2871368730"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.0153979",
+        "Longitude": "-7.3123536"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2871267763"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "1",
+        "Country": "GB",
+        "CountrySubDivision": "Tyrone",
+        "PostCode": "BT828AG",
+        "StreetName": "Abercorn Square",
+        "TownName": "Strabane"
+      },
+      "BranchIdentification": "Strabane",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.8262847,-7.4629294,3a,75y,35.38h,79.61t/data=!3m6!1e1!3m4!1sVJI-xg27fGK0vlXrp58akA!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2871382860"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.8262847",
+        "Longitude": "-7.4629294"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2871882337"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "15",
+        "Country": "GB",
+        "CountrySubDivision": "Derry",
+        "PostCode": "BT487BJ",
+        "StreetName": "Strand Road",
+        "TownName": "Derry"
+      },
+      "BranchIdentification": "Strand Road",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.9988443,-7.3217785,3a,75y,230.58h,94.44t/data=!3m6!1e1!3m4!1sShG640w5CeJFlOr_nQitEQ!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2871361097"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.9988443",
+        "Longitude": "-7.3217785"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2871264141"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "141",
+        "Country": "GB",
+        "CountrySubDivision": "Fermanagh",
+        "PostCode": "BT920JF",
+        "StreetName": "Main Street",
+        "TownName": "Lisnaskea"
+      },
+      "BranchIdentification": "Lisnaskea",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/place/141+Main+St,+Lisnaskea,+Enniskillen+BT92+0JE/@54.2530059,-7.4429398,3a,90y,241.58h,86.47t/data=!3m7!1e1!3m5!1sIG2k0mbCitUcUdkF-vGFjw!3e11!6s%2F%2Fgeo0.ggpht.com%2Fmaps%2Fphotothumb%2Ffd%2Fv1%3Fbpb%3DChAKDnNlYXJjaC5UQUNUSUxFEjQKEgkZaunriz5eSBF9pk8TdAr13hoSCXf_vpiMPl5IEfHBVaLw5wf9KgoNQFZWIBVoQpD7GgQIVhBW%26gl%3DGB!7i13312!8i6656!4m5!3m4!1s0x485e3e8bebe96a19:0xdef50a74134fa67d!8m2!3d54.2528363!4d-7.4427166!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2867721728"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.2530059",
+        "Longitude": "-7.4429398"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2867721001"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "7",
+        "Country": "GB",
+        "CountrySubDivision": "Fermanagh",
+        "PostCode": "BT747BD",
+        "StreetName": "Townhall Street",
+        "TownName": "Enniskillen"
+      },
+      "BranchIdentification": "Enniskillen",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.3445707,-7.6385744,3a,90y,243.2h,100.01t/data=!3m6!1e1!3m4!1sAb0CBltrSUT26P5_iBAalA!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2866325741"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.3445707",
+        "Longitude": "-7.6385744"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "16:30:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "09:30:00.000",
+          "UnavailableFinishTime": "09:29:59.000",
+          "UnavailableStartTime": "16:30:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "TelephoneNumber": "+44-2866322136"
+    },
+    {
+      "ATMAtBranch": true,
+      "AccessibilityTypes": "WheelchairAccess",
+      "Address": {
+        "BuildingNumberOrName": "34",
+        "Country": "GB",
+        "CountrySubDivision": "Fermanagh",
+        "PostCode": "BT933FX",
+        "StreetName": "Main Street",
+        "TownName": "Belleek"
+      },
+      "BranchIdentification": "Belleek",
+      "BranchMediatedServiceName": [
+        "CounterServices",
+        "MortgageAdvisor",
+        "NightSafe",
+        "BureauDeChange",
+        "OnDemandCurrency"
+      ],
+      "BranchName": "Bank of Ireland",
+      "BranchPhoto": "https://www.google.co.uk/maps/@54.4800936,-8.0917135,3a,49.3y,45.74h,96.78t/data=!3m6!1e1!3m4!1szDjSy0aGyWoQs_XxHsF9-Q!2e0!7i13312!8i6656!6m1!1e1",
+      "BranchSelfServeServiceName": [
+        "InternalAtmNoAudio",
+        "ExternalAtmNoAudio",
+        "OnlineBankingPoint",
+        "StatementPrinter",
+        "LodgementDevice",
+        "CashChequeDepositMachineNoCoin"
+      ],
+      "BranchType": "Physical",
+      "CustomerSegment": [
+        "Personal",
+        "Business",
+        "SME"
+      ],
+      "FaxNumber": [
+        "+44-2868658043"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.4800936",
+        "Longitude": "-8.0917135"
+      },
+      "OpeningTimes": [
+        {
+          "ClosingTime": "16:00:00.000",
+          "OpeningDay": "Monday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:00:01.000"
+        },
+        {
+          "ClosingTime": "16:00:00.000",
+          "OpeningDay": "Tuesday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:00:01.000"
+        },
+        {
+          "ClosingTime": "16:00:00.000",
+          "OpeningDay": "Wednesday",
+          "OpeningTime": "10:30:00.000",
+          "UnavailableFinishTime": "10:29:59.000",
+          "UnavailableStartTime": "16:00:01.000"
+        },
+        {
+          "ClosingTime": "16:00:00.000",
+          "OpeningDay": "Thursday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:00:01.000"
+        },
+        {
+          "ClosingTime": "16:00:00.000",
+          "OpeningDay": "Friday",
+          "OpeningTime": "10:00:00.000",
+          "UnavailableFinishTime": "09:59:59.000",
+          "UnavailableStartTime": "16:00:01.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Saturday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        },
+        {
+          "ClosingTime": "00:00:00.000",
+          "OpeningDay": "Sunday",
+          "OpeningTime": "24:00:00.000",
+          "UnavailableFinishTime": "00:00:00.000",
+          "UnavailableStartTime": "24:00:00.000"
+        }
+      ],
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "PlannedBranchClosure": [
+        {
+          "StartDate": "2017-03-24"
+        }
+      ],
+      "TelephoneNumber": "+44-2868658340"
+    }
+  ]
+}
