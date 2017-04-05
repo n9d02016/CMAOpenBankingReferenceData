@@ -2,15 +2,15 @@
   "meta": {
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "TotalResults": 14,
-    "LastUpdated": "2017-03-21T09:52:01.187Z",
+    "LastUpdated": "2017-03-30T09:30:00.000Z",
     "License": "https://www.openbanking.org.uk/open-licence/",
     "TermsOfUse": "https://www.openbanking.org.uk/terms/"
   },
   "data": [
     {
-      "name": "AIB Group (UK) Plc",
+      "name": "Allied Irish Bank (GB)",
       "brands": [
-        "AIB Group (UK) Plc"
+        "Allied Irish Bank (GB)"
       ],
       "baseUrl": "https://api.aibgb.co.uk/open-banking",
       "supportedAPIs": {
