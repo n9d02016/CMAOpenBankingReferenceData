@@ -136,49 +136,6 @@
       ]
     },
     {
-      "ATMID": "90238965",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "CashDeposits",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "27",
-        "Country": "GB",
-        "PostCode": "BT414AX",
-        "StreetName": "High Street",
-        "TownName": "Antrim"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.7143609",
-        "Longitude": "-6.21888880"
-      },
-      "LocationCategory": "BranchInternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Antrim",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90204765",
       "ATMServices": [
         "CashWithdrawal",
@@ -217,6 +174,49 @@
         }
       },
       "SiteName": "Armagh",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90238965",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "CashDeposits",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "27",
+        "Country": "GB",
+        "PostCode": "BT414AX",
+        "StreetName": "High Street",
+        "TownName": "Antrim"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.7143609",
+        "Longitude": "-6.21888880"
+      },
+      "LocationCategory": "BranchInternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Antrim",
       "SupportedLanguages": [
         "English"
       ]
@@ -307,6 +307,48 @@
       ]
     },
     {
+      "ATMID": "90480030",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "12",
+        "Country": "GB",
+        "PostCode": "BT536AG",
+        "StreetName": "High Street",
+        "TownName": "Ballymoney"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.07083333",
+        "Longitude": "-6.5175"
+      },
+      "LocationCategory": "RemoteUnit",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Ballymoney",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
       "ATMID": "90205565",
       "ATMServices": [
         "CashWithdrawal",
@@ -350,29 +392,30 @@
       ]
     },
     {
-      "ATMID": "90480030",
+      "ATMID": "90207167",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
         "PINChange",
         "PINActivation",
+        "CashDeposits",
         "BillPayments"
       ],
       "Address": {
-        "BuildingNumberOrName": "12",
+        "BuildingNumberOrName": "82a",
         "Country": "GB",
-        "PostCode": "BT536AG",
-        "StreetName": "High Street",
-        "TownName": "Ballymoney"
+        "PostCode": "BT204AG",
+        "StreetName": "Main Street",
+        "TownName": "Bangor"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "55.07083333",
-        "Longitude": "-6.5175"
+        "Latitude": "54.6609",
+        "Longitude": "-5.66838"
       },
-      "LocationCategory": "RemoteUnit",
+      "LocationCategory": "BranchInternal",
       "MinimumValueDispensed": "£10",
       "Organisation": {
         "Brand": {
@@ -386,7 +429,7 @@
           }
         }
       },
-      "SiteName": "Ballymoney",
+      "SiteName": "Bangor",
       "SupportedLanguages": [
         "English"
       ]
@@ -430,49 +473,6 @@
         }
       },
       "SiteName": "Banbridge",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
-      "ATMID": "90207167",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "CashDeposits",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "82a",
-        "Country": "GB",
-        "PostCode": "BT204AG",
-        "StreetName": "Main Street",
-        "TownName": "Bangor"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.6609",
-        "Longitude": "-5.66838"
-      },
-      "LocationCategory": "BranchInternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Bangor",
       "SupportedLanguages": [
         "English"
       ]
@@ -564,7 +564,7 @@
       ]
     },
     {
-      "ATMID": "90212766",
+      "ATMID": "90212764",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -607,7 +607,7 @@
       ]
     },
     {
-      "ATMID": "90212764",
+      "ATMID": "90212766",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -1284,48 +1284,6 @@
       ]
     },
     {
-      "ATMID": "90995062",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "66/70",
-        "Country": "GB",
-        "PostCode": "BT95AD",
-        "StreetName": "Stranmillis Road",
-        "TownName": "Belfast"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.5807",
-        "Longitude": "-5.93599"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Centra",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995090",
       "ATMServices": [
         "CashWithdrawal",
@@ -1347,6 +1305,48 @@
       "GeographicLocation": {
         "Latitude": "54.58055556",
         "Longitude": "-5.93805555"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Centra",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995062",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "66/70",
+        "Country": "GB",
+        "PostCode": "BT95AD",
+        "StreetName": "Stranmillis Road",
+        "TownName": "Belfast"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5807",
+        "Longitude": "-5.93599"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -1704,48 +1704,6 @@
       ]
     },
     {
-      "ATMID": "90480001",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "2",
-        "Country": "GB",
-        "PostCode": "BT521DE",
-        "StreetName": "The Diamond",
-        "TownName": "Coleraine"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "55.1314403",
-        "Longitude": "-6.6714563"
-      },
-      "LocationCategory": "BranchExternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Coleraine",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90480065",
       "ATMServices": [
         "CashWithdrawal",
@@ -1770,6 +1728,48 @@
         "Longitude": "-6.6714563"
       },
       "LocationCategory": "BranchInternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Coleraine",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90480001",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "2",
+        "Country": "GB",
+        "PostCode": "BT521DE",
+        "StreetName": "The Diamond",
+        "TownName": "Coleraine"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.1314403",
+        "Longitude": "-6.6714563"
+      },
+      "LocationCategory": "BranchExternal",
       "MinimumValueDispensed": "£10",
       "Organisation": {
         "Brand": {
@@ -2127,48 +2127,6 @@
       ]
     },
     {
-      "ATMID": "90995154",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "73",
-        "Country": "GB",
-        "PostCode": "BT473SF",
-        "StreetName": "Glenshane Road",
-        "TownName": "Derry"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.97611111",
-        "Longitude": "-7.26916666"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Costcutters",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995180",
       "ATMServices": [
         "CashWithdrawal",
@@ -2211,7 +2169,7 @@
       ]
     },
     {
-      "ATMID": "90995251",
+      "ATMID": "90995154",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -2220,18 +2178,18 @@
         "BillPayments"
       ],
       "Address": {
-        "BuildingNumberOrName": "63",
+        "BuildingNumberOrName": "73",
         "Country": "GB",
-        "PostCode": "BT455PP",
-        "StreetName": "Main Street",
-        "TownName": "Tobermore"
+        "PostCode": "BT473SF",
+        "StreetName": "Glenshane Road",
+        "TownName": "Derry"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "54.81055556",
-        "Longitude": "-6.71111111"
+        "Latitude": "54.97611111",
+        "Longitude": "-7.26916666"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -2274,6 +2232,48 @@
       "GeographicLocation": {
         "Latitude": "54.5605",
         "Longitude": "-6.02028"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Costcutters",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995251",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "63",
+        "Country": "GB",
+        "PostCode": "BT455PP",
+        "StreetName": "Main Street",
+        "TownName": "Tobermore"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.81055556",
+        "Longitude": "-6.71111111"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -2508,6 +2508,48 @@
       ]
     },
     {
+      "ATMID": "90245001",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "80-82",
+        "Country": "GB",
+        "PostCode": "BT306LZ",
+        "StreetName": "Market Street",
+        "TownName": "Downpatrick"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.3267159",
+        "Longitude": "-5.71784100"
+      },
+      "LocationCategory": "BranchExternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Downpatrick",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
       "ATMID": "90497470",
       "ATMServices": [
         "CashWithdrawal",
@@ -2546,48 +2588,6 @@
         }
       },
       "SiteName": "Culmore Rd",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
-      "ATMID": "90245001",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "80-82",
-        "Country": "GB",
-        "PostCode": "BT306LZ",
-        "StreetName": "Market Street",
-        "TownName": "Downpatrick"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.3267159",
-        "Longitude": "-5.71784100"
-      },
-      "LocationCategory": "BranchExternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Downpatrick",
       "SupportedLanguages": [
         "English"
       ]
@@ -2805,7 +2805,7 @@
       ]
     },
     {
-      "ATMID": "90995006",
+      "ATMID": "90995002",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -2815,16 +2815,16 @@
       ],
       "Address": {
         "Country": "GB",
-        "PostCode": "BT746AJ",
-        "StreetName": "Forthill Street",
-        "TownName": "Enniskillen"
+        "PostCode": "BT480PU",
+        "StreetName": "Northlands Road",
+        "TownName": "Derry"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "54.3455346",
-        "Longitude": "-7.63913380"
+        "Latitude": "55.0179729",
+        "Longitude": "-7.34245520"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -2846,7 +2846,7 @@
       ]
     },
     {
-      "ATMID": "90995002",
+      "ATMID": "90995006",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -2856,16 +2856,16 @@
       ],
       "Address": {
         "Country": "GB",
-        "PostCode": "BT480PU",
-        "StreetName": "Northlands Road",
-        "TownName": "Derry"
+        "PostCode": "BT746AJ",
+        "StreetName": "Forthill Street",
+        "TownName": "Enniskillen"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "55.0179729",
-        "Longitude": "-7.34245520"
+        "Latitude": "54.3455346",
+        "Longitude": "-7.63913380"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -3058,7 +3058,7 @@
       ]
     },
     {
-      "ATMID": "90242666",
+      "ATMID": "90242665",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -3101,7 +3101,7 @@
       ]
     },
     {
-      "ATMID": "90242665",
+      "ATMID": "90242666",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -3438,48 +3438,6 @@
       ]
     },
     {
-      "ATMID": "90995137",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "268",
-        "Country": "GB",
-        "PostCode": "BT4 1HG",
-        "StreetName": "Lowe Newtownards Road",
-        "TownName": "Belfast"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.58975982",
-        "Longitude": "-5.89338750"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Independent",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995143",
       "ATMServices": [
         "CashWithdrawal",
@@ -3543,6 +3501,48 @@
       "GeographicLocation": {
         "Latitude": "54.6751534",
         "Longitude": "-5.96669569"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Independent",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995137",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "268",
+        "Country": "GB",
+        "PostCode": "BT4 1HG",
+        "StreetName": "Lowe Newtownards Road",
+        "TownName": "Belfast"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.58975982",
+        "Longitude": "-5.89338750"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -3774,48 +3774,6 @@
       ]
     },
     {
-      "ATMID": "90995245",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "6",
-        "Country": "GB",
-        "PostCode": "BT67 9A",
-        "StreetName": "North Street",
-        "TownName": "Craigavon"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.4654019",
-        "Longitude": "-6.33237899"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Independent",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995246",
       "ATMServices": [
         "CashWithdrawal",
@@ -3837,6 +3795,48 @@
       "GeographicLocation": {
         "Latitude": "54.25377599",
         "Longitude": "-5.96261249"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Independent",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995245",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "6",
+        "Country": "GB",
+        "PostCode": "BT67 9A",
+        "StreetName": "North Street",
+        "TownName": "Craigavon"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.4654019",
+        "Longitude": "-6.33237899"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -4068,48 +4068,6 @@
       ]
     },
     {
-      "ATMID": "90995229",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "18-20",
-        "Country": "GB",
-        "PostCode": "BT343HN",
-        "StreetName": "Church Street",
-        "TownName": "Warrenpoint"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.1004593",
-        "Longitude": "-6.25311579"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Independent",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995230",
       "ATMServices": [
         "CashWithdrawal",
@@ -4131,6 +4089,48 @@
       "GeographicLocation": {
         "Latitude": "54.25829050",
         "Longitude": "-5.94373970"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Independent",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995229",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "18-20",
+        "Country": "GB",
+        "PostCode": "BT343HN",
+        "StreetName": "Church Street",
+        "TownName": "Warrenpoint"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.1004593",
+        "Longitude": "-6.25311579"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -4490,7 +4490,7 @@
       ]
     },
     {
-      "ATMID": "90219465",
+      "ATMID": "90219466",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -4533,7 +4533,7 @@
       ]
     },
     {
-      "ATMID": "90219466",
+      "ATMID": "90219465",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -4704,48 +4704,6 @@
       ]
     },
     {
-      "ATMID": "90505301",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "141",
-        "Country": "GB",
-        "PostCode": "BT920JE",
-        "StreetName": "Main Street",
-        "TownName": "Lisnaskea"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.2518511",
-        "Longitude": "-7.44218890"
-      },
-      "LocationCategory": "BranchExternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Lisnaskea",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90505365",
       "ATMServices": [
         "CashWithdrawal",
@@ -4770,6 +4728,48 @@
         "Longitude": "-7.44218890"
       },
       "LocationCategory": "BranchInternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Lisnaskea",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90505301",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "141",
+        "Country": "GB",
+        "PostCode": "BT920JE",
+        "StreetName": "Main Street",
+        "TownName": "Lisnaskea"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.2518511",
+        "Longitude": "-7.44218890"
+      },
+      "LocationCategory": "BranchExternal",
       "MinimumValueDispensed": "£10",
       "Organisation": {
         "Brand": {
@@ -4875,6 +4875,48 @@
       ]
     },
     {
+      "ATMID": "90995056",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "10",
+        "Country": "GB",
+        "PostCode": "BT7 2JB",
+        "StreetName": "Cromac Place",
+        "TownName": "Belfast"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5896504",
+        "Longitude": "-5.92297280"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Mace",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
       "ATMID": "90231165",
       "ATMServices": [
         "CashWithdrawal",
@@ -4918,7 +4960,7 @@
       ]
     },
     {
-      "ATMID": "90995056",
+      "ATMID": "90995074",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -4927,18 +4969,18 @@
         "BillPayments"
       ],
       "Address": {
-        "BuildingNumberOrName": "10",
+        "BuildingNumberOrName": "336 - 338",
         "Country": "GB",
-        "PostCode": "BT7 2JB",
-        "StreetName": "Cromac Place",
+        "PostCode": "BT69DT",
+        "StreetName": "Woodstock Road",
         "TownName": "Belfast"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "54.5896504",
-        "Longitude": "-5.92297280"
+        "Latitude": "54.5890859",
+        "Longitude": "-5.90135699"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -4981,48 +5023,6 @@
       "GeographicLocation": {
         "Latitude": "54.6021428",
         "Longitude": "-5.93012790"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Mace",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
-      "ATMID": "90995074",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "336 - 338",
-        "Country": "GB",
-        "PostCode": "BT69DT",
-        "StreetName": "Woodstock Road",
-        "TownName": "Belfast"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.5890859",
-        "Longitude": "-5.90135699"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -5254,48 +5254,6 @@
       ]
     },
     {
-      "ATMID": "90995157",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "47",
-        "Country": "GB",
-        "PostCode": "BT11GH",
-        "StreetName": "Castle Street",
-        "TownName": "Belfast"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.5993258",
-        "Longitude": "-5.93498420"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Mace",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995199",
       "ATMServices": [
         "CashWithdrawal",
@@ -5317,6 +5275,48 @@
       "GeographicLocation": {
         "Latitude": "54.57363609",
         "Longitude": "-5.94654309"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Mace",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995157",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "47",
+        "Country": "GB",
+        "PostCode": "BT11GH",
+        "StreetName": "Castle Street",
+        "TownName": "Belfast"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5993258",
+        "Longitude": "-5.93498420"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -5422,48 +5422,6 @@
       ]
     },
     {
-      "ATMID": "90995220",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "22/24",
-        "Country": "GB",
-        "PostCode": "BT413AF",
-        "StreetName": "New Street",
-        "TownName": "Randalstown"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.748834",
-        "Longitude": "-6.32164439"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Mace",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995216",
       "ATMServices": [
         "CashWithdrawal",
@@ -5485,6 +5443,48 @@
       "GeographicLocation": {
         "Latitude": "54.4553337",
         "Longitude": "-6.34634329"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Mace",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995220",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "22/24",
+        "Country": "GB",
+        "PostCode": "BT413AF",
+        "StreetName": "New Street",
+        "TownName": "Randalstown"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.748834",
+        "Longitude": "-6.32164439"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -5674,49 +5674,6 @@
       ]
     },
     {
-      "ATMID": "90498266",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "CashDeposits",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "55",
-        "Country": "GB",
-        "PostCode": "BT465AA",
-        "StreetName": "Main Street",
-        "TownName": "Maghera"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.8446635",
-        "Longitude": "-6.67334559"
-      },
-      "LocationCategory": "BranchInternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Maghera",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90498268",
       "ATMServices": [
         "CashWithdrawal",
@@ -5760,7 +5717,7 @@
       ]
     },
     {
-      "ATMID": "90498265",
+      "ATMID": "90498266",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -5770,18 +5727,18 @@
         "BillPayments"
       ],
       "Address": {
-        "BuildingNumberOrName": "11",
+        "BuildingNumberOrName": "55",
         "Country": "GB",
-        "PostCode": "BT456AD",
-        "StreetName": "Market Square",
-        "TownName": "Magherafelt"
+        "PostCode": "BT465AA",
+        "StreetName": "Main Street",
+        "TownName": "Maghera"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "54.75504790",
-        "Longitude": "-6.60784009"
+        "Latitude": "54.8446635",
+        "Longitude": "-6.67334559"
       },
       "LocationCategory": "BranchInternal",
       "MinimumValueDispensed": "£10",
@@ -5797,7 +5754,7 @@
           }
         }
       },
-      "SiteName": "Magherafelt",
+      "SiteName": "Maghera",
       "SupportedLanguages": [
         "English"
       ]
@@ -5840,6 +5797,49 @@
         }
       },
       "SiteName": "Newry",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90498265",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "CashDeposits",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "11",
+        "Country": "GB",
+        "PostCode": "BT456AD",
+        "StreetName": "Market Square",
+        "TownName": "Magherafelt"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.75504790",
+        "Longitude": "-6.60784009"
+      },
+      "LocationCategory": "BranchInternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Magherafelt",
       "SupportedLanguages": [
         "English"
       ]
@@ -6185,6 +6185,48 @@
       ]
     },
     {
+      "ATMID": "90995014",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "South & East Health & Social Services Trust",
+        "Country": "GB",
+        "PostCode": "BT88BH",
+        "StreetName": "Saintfield Road",
+        "TownName": "Belfast"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5429",
+        "Longitude": "-5.9037900"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Other",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
       "ATMID": "90222365",
       "ATMServices": [
         "CashWithdrawal",
@@ -6223,48 +6265,6 @@
         }
       },
       "SiteName": "Ormeau Rd",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
-      "ATMID": "90995014",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "South & East Health & Social Services Trust",
-        "Country": "GB",
-        "PostCode": "BT88BH",
-        "StreetName": "Saintfield Road",
-        "TownName": "Belfast"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.5429",
-        "Longitude": "-5.9037900"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Other",
       "SupportedLanguages": [
         "English"
       ]
@@ -6354,48 +6354,6 @@
       ]
     },
     {
-      "ATMID": "90235401",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "43",
-        "Country": "GB",
-        "PostCode": "BT621HY",
-        "StreetName": "High Street",
-        "TownName": "Portadown"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.42323469",
-        "Longitude": "-6.44311400"
-      },
-      "LocationCategory": "BranchExternal",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Portadown",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90235465",
       "ATMServices": [
         "CashWithdrawal",
@@ -6420,6 +6378,48 @@
         "Longitude": "-6.44311400"
       },
       "LocationCategory": "BranchInternal",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Portadown",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90235401",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "43",
+        "Country": "GB",
+        "PostCode": "BT621HY",
+        "StreetName": "High Street",
+        "TownName": "Portadown"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.42323469",
+        "Longitude": "-6.44311400"
+      },
+      "LocationCategory": "BranchExternal",
       "MinimumValueDispensed": "£10",
       "Organisation": {
         "Brand": {
@@ -6775,48 +6775,6 @@
       ]
     },
     {
-      "ATMID": "90995065",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "22",
-        "Country": "GB",
-        "PostCode": "BT221BL",
-        "StreetName": "High Street",
-        "TownName": "Ballyhalbert"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.4949261",
-        "Longitude": "-5.46156550"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Spar",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995135",
       "ATMServices": [
         "CashWithdrawal",
@@ -6859,7 +6817,7 @@
       ]
     },
     {
-      "ATMID": "90995152",
+      "ATMID": "90995065",
       "ATMServices": [
         "CashWithdrawal",
         "Balance",
@@ -6870,16 +6828,16 @@
       "Address": {
         "BuildingNumberOrName": "22",
         "Country": "GB",
-        "PostCode": "BT536DS",
-        "StreetName": "John Street",
-        "TownName": "Ballymoney"
+        "PostCode": "BT221BL",
+        "StreetName": "High Street",
+        "TownName": "Ballyhalbert"
       },
       "Currency": [
         "GBP"
       ],
       "GeographicLocation": {
-        "Latitude": "55.07273199",
-        "Longitude": "-6.51439649"
+        "Latitude": "54.4949261",
+        "Longitude": "-5.46156550"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -6922,6 +6880,48 @@
       "GeographicLocation": {
         "Latitude": "54.1819124",
         "Longitude": "-7.36006829"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Spar",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995152",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "22",
+        "Country": "GB",
+        "PostCode": "BT536DS",
+        "StreetName": "John Street",
+        "TownName": "Ballymoney"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "55.07273199",
+        "Longitude": "-6.51439649"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -7195,48 +7195,6 @@
       ]
     },
     {
-      "ATMID": "90995227",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "43",
-        "Country": "GB",
-        "PostCode": "BT457QS",
-        "StreetName": "Lawford Street",
-        "TownName": "Moneymore"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.6935832",
-        "Longitude": "-6.67010870"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Spar",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995058",
       "ATMServices": [
         "CashWithdrawal",
@@ -7258,6 +7216,48 @@
       "GeographicLocation": {
         "Latitude": "54.197855",
         "Longitude": "-7.57339000"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Spar",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995227",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "43",
+        "Country": "GB",
+        "PostCode": "BT457QS",
+        "StreetName": "Lawford Street",
+        "TownName": "Moneymore"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.6935832",
+        "Longitude": "-6.67010870"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -7828,48 +7828,6 @@
       ]
     },
     {
-      "ATMID": "90995188",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "Newbuildings",
-        "Country": "GB",
-        "PostCode": "BT472SS",
-        "StreetName": "Duncastle Road",
-        "TownName": "Derry"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.9343399",
-        "Longitude": "-7.35368249"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Supervalu",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995099",
       "ATMServices": [
         "CashWithdrawal",
@@ -7891,6 +7849,48 @@
       "GeographicLocation": {
         "Latitude": "55.0220295",
         "Longitude": "-7.35368200"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Supervalu",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995188",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "Newbuildings",
+        "Country": "GB",
+        "PostCode": "BT472SS",
+        "StreetName": "Duncastle Road",
+        "TownName": "Derry"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.9343399",
+        "Longitude": "-7.35368249"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -8080,48 +8080,6 @@
       ]
     },
     {
-      "ATMID": "90995041",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "13",
-        "Country": "GB",
-        "PostCode": "BT235DY",
-        "StreetName": "Castle Street",
-        "TownName": "Comber"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.5518241",
-        "Longitude": "-5.74798559"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Supervalu",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
       "ATMID": "90995189",
       "ATMServices": [
         "CashWithdrawal",
@@ -8143,6 +8101,48 @@
       "GeographicLocation": {
         "Latitude": "54.58901669",
         "Longitude": "-5.84555120"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Supervalu",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
+      "ATMID": "90995041",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "13",
+        "Country": "GB",
+        "PostCode": "BT235DY",
+        "StreetName": "Castle Street",
+        "TownName": "Comber"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.5518241",
+        "Longitude": "-5.74798559"
       },
       "LocationCategory": "RetailerOutlet",
       "MinimumValueDispensed": "£10",
@@ -8332,6 +8332,48 @@
       ]
     },
     {
+      "ATMID": "90995198",
+      "ATMServices": [
+        "CashWithdrawal",
+        "Balance",
+        "PINChange",
+        "PINActivation",
+        "BillPayments"
+      ],
+      "Address": {
+        "BuildingNumberOrName": "47",
+        "Country": "GB",
+        "PostCode": "BT399RX",
+        "StreetName": "Mossley Road",
+        "TownName": "Ballyclare"
+      },
+      "Currency": [
+        "GBP"
+      ],
+      "GeographicLocation": {
+        "Latitude": "54.7172265",
+        "Longitude": "-6.00089980"
+      },
+      "LocationCategory": "RetailerOutlet",
+      "MinimumValueDispensed": "£10",
+      "Organisation": {
+        "Brand": {
+          "TrademarkID": "00002056438",
+          "TrademarkIPOCode": "UK"
+        },
+        "ParentOrganisation": {
+          "BIC": "BOFIGB2B",
+          "OrganisationName": {
+            "LegalName": "Bank of Ireland (UK) plc"
+          }
+        }
+      },
+      "SiteName": "Vivo",
+      "SupportedLanguages": [
+        "English"
+      ]
+    },
+    {
       "ATMID": "90029565",
       "ATMServices": [
         "CashWithdrawal",
@@ -8370,48 +8412,6 @@
         }
       },
       "SiteName": "Uni Rd Belfast",
-      "SupportedLanguages": [
-        "English"
-      ]
-    },
-    {
-      "ATMID": "90995198",
-      "ATMServices": [
-        "CashWithdrawal",
-        "Balance",
-        "PINChange",
-        "PINActivation",
-        "BillPayments"
-      ],
-      "Address": {
-        "BuildingNumberOrName": "47",
-        "Country": "GB",
-        "PostCode": "BT399RX",
-        "StreetName": "Mossley Road",
-        "TownName": "Ballyclare"
-      },
-      "Currency": [
-        "GBP"
-      ],
-      "GeographicLocation": {
-        "Latitude": "54.7172265",
-        "Longitude": "-6.00089980"
-      },
-      "LocationCategory": "RetailerOutlet",
-      "MinimumValueDispensed": "£10",
-      "Organisation": {
-        "Brand": {
-          "TrademarkID": "00002056438",
-          "TrademarkIPOCode": "UK"
-        },
-        "ParentOrganisation": {
-          "BIC": "BOFIGB2B",
-          "OrganisationName": {
-            "LegalName": "Bank of Ireland (UK) plc"
-          }
-        }
-      },
-      "SiteName": "Vivo",
       "SupportedLanguages": [
         "English"
       ]
